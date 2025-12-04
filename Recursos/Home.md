@@ -1,4 +1,7 @@
 ---
+banner: "![[872037.png]]"
+---
+---
 cssclasses:
   - dashboard
 banner: "![[872037.png]]"

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b16fb80eb42ed85",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "3c70d91b74b305cd",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"banner\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d14c1ece59fec8f5",
@@ -95,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 276.5
   },
   "right": {
     "id": "44f3cdaf8d5fd277",
@@ -165,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 917.5
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b25ddd6a450b45a7",
+  "active": "a876abedb1aff962",
   "lastOpenFiles": [
     "Recursos/Home.md",
     "Notas Diarias/19-12-2025.md",
