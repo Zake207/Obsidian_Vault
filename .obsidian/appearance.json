@@ -1,0 +1,11 @@
+{
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "interfaceFontFamily": "FiraCode Nerd Font Propo",
+  "textFontFamily": "FiraCode Nerd Font Propo",
+  "monospaceFontFamily": "FiraCode Nerd Font Propo"
+}
