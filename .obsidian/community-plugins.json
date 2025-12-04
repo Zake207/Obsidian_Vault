@@ -4,5 +4,7 @@
   "homepage",
   "calendar",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-latex-suite",
+  "editing-toolbar"
 ]
