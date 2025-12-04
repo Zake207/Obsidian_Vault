@@ -4,11 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "c65bd79bae43200c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3fb2c543a32dfecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recursos/Banners.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Banners"
+            }
+          },
+          {
+            "id": "c647e293c05990ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +37,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,8 +91,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d14c1ece59fec8f5",
@@ -166,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,17 +191,18 @@
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
       "daily-notes:Abrir la nota de hoy": false,
-      "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "a876abedb1aff962",
+  "active": "c647e293c05990ee",
   "lastOpenFiles": [
+    "Recursos/Banners.md",
     "Recursos/Home.md",
+    "Ideas de lectura.md",
     "Notas Diarias/19-12-2025.md",
     "Notas Diarias/04-12-2025.md",
     "Notas Diarias",
-    "Recursos/Banners.md",
     "Recursos/ADJUNTOS/872037.png",
     "Recursos/ADJUNTOS",
     "Recursos/872037.png",
