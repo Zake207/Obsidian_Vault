@@ -7,5 +7,7 @@
   "theme": "obsidian",
   "interfaceFontFamily": "FiraCode Nerd Font Propo",
   "textFontFamily": "FiraCode Nerd Font Propo",
-  "monospaceFontFamily": "FiraCode Nerd Font Propo"
+  "monospaceFontFamily": "FiraCode Nerd Font Propo",
+  "showViewHeader": true,
+  "showRibbon": true
 }

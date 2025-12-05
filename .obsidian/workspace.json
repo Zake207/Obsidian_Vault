@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "44f3cdaf8d5fd277",
@@ -169,12 +170,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "switcher:Abrir selector rápido": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
-      "daily-notes:Abrir la nota de hoy": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false
     }
@@ -182,13 +183,13 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Recursos/Home.md",
+    "Ideas de lectura.md",
     "Recursos/PLANTILLAS",
     "Planes de lectura.md",
     "Librería.md",
     "Universidad",
     "Proyectos",
     "Ocio",
-    "Ideas de lectura.md",
     "Recursos/Banners.md",
     "Notas Diarias/19-12-2025.md",
     "Notas Diarias/04-12-2025.md",

@@ -2,5 +2,11 @@
   "readableLineLength": true,
   "attachmentFolderPath": "./ADJUNTOS",
   "defaultViewMode": "preview",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "trashOption": "local",
+  "showInlineTitle": true
 }
