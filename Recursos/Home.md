@@ -11,7 +11,7 @@ banner_x: 0.5
 - 〽️ Stats
     - File Count: `$=dv.pages().length`
     - Personal recipes: `$=dv.pages('"Family/Recipes"').length`
-# <center>Clases</center>
+# <center>Universidad</center>
 - 2º de carrera
     - [[Spicy-Sweet Buffalo Popcorn]]
     - [[Guest list]]
@@ -32,9 +32,9 @@ banner_x: 0.5
     - [[Bathroom Remodel]]
     - [[Paint entryway]]
     - [[Research building Garage]]
-- Planes de Lectura
-	- [[Libro actual]]
-	- [[Ideas de lectura]]
+- Aprendizaje
+	- [[React.js]]
+	- [[TailwindCSS]]
 
 # <center>Ocio</center>
 - Juegos
@@ -42,15 +42,12 @@ banner_x: 0.5
     - [[Pokemon]]
     - [[Terraria]]
 - Viajes
-	- [[VIAJE: Budapest]]
-	- [[VIAJE: Asturias]]
-	- [[VIAJE: El Hierro]]
+	- [[VIAJE - Budapest]]
+	- [[VIAJE - Asturias]]
+	- [[VIAJE - El Hierro]]
 + Libros
-	+ [[WH40K: Herejía de Horus]]
-	+ [[WH40K: Asalto a Terra]]
-	+ [[El Problema de los Tres Cuerpos]]
-	+ [[Lovecraft]]
-	+ [[Dune]]
+	+ [[Planes de lectura]]
+	+ [[Librería]]
 + Lore
 	+ [[Warhammer 40.000]]
 	+ [[Age of Sigmar]]

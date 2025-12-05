@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eeca9c0a300b4200",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "811d3bf7acfd1822",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 275.5
   },
   "right": {
     "id": "44f3cdaf8d5fd277",
@@ -179,11 +179,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "811d3bf7acfd1822",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Recursos/Home.md",
-    "Recursos/Banners.md",
+    "Recursos/PLANTILLAS",
+    "Planes de lectura.md",
+    "Librería.md",
+    "Universidad",
+    "Proyectos",
+    "Ocio",
     "Ideas de lectura.md",
+    "Recursos/Banners.md",
     "Notas Diarias/19-12-2025.md",
     "Notas Diarias/04-12-2025.md",
     "Notas Diarias",

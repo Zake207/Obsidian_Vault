@@ -1,4 +1,6 @@
 {
   "readableLineLength": true,
-  "attachmentFolderPath": "./ADJUNTOS"
+  "attachmentFolderPath": "./ADJUNTOS",
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }
