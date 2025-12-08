@@ -2,21 +2,50 @@
   "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Universidad  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431394
+      }
+    },
+    {
+      "query": "path:Proyectos  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Ocio  ",
+      "color": {
+        "a": 1,
+        "rgb": 14975391
+      }
+    },
+    {
+      "query": "path:\"Notas Diarias\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15878764
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.486979166666667,
+  "repelStrength": 10.9895833333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.2588386562181629,
+  "linkDistance": 198,
+  "scale": 0.06699744995282429,
   "close": true
 }

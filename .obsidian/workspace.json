@@ -78,24 +78,24 @@
         ]
       },
       {
-        "id": "d14c1ece59fec8f5",
+        "id": "be475b635f651b61",
         "type": "tabs",
         "children": [
           {
-            "id": "853395e51a1e5172",
+            "id": "98095bff7f41214e",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "graph",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
+    "width": 307.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -149,24 +149,24 @@
         "currentTab": 2
       },
       {
-        "id": "3b31adff18e9faa9",
+        "id": "60960a81e133b9d3",
         "type": "tabs",
         "children": [
           {
-            "id": "907714bf030f6db9",
+            "id": "853395e51a1e5172",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,23 +182,51 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Ocio/Libros/Librería.md",
+    "Ocio/Libros/HORUS, SEÑOR DE LA GUERRA.md",
     "Recursos/Home.md",
-    "Ideas de lectura.md",
-    "Recursos/PLANTILLAS",
-    "Planes de lectura.md",
-    "Librería.md",
-    "Universidad",
-    "Proyectos",
-    "Ocio",
-    "Recursos/Banners.md",
-    "Notas Diarias/19-12-2025.md",
-    "Notas Diarias/04-12-2025.md",
-    "Notas Diarias",
-    "Recursos/ADJUNTOS/872037.png",
-    "Recursos/ADJUNTOS",
-    "Recursos/872037.png",
-    "Recursos",
-    "desktop.ini",
-    "Bienvenido.md"
+    "Ocio/Recetas/Postres.md",
+    "Ocio/Recetas/Crema de limón.md",
+    "Ocio/Recetas/Tarta de requesón con arándanos.md",
+    "Ocio/Libros/Planes de lectura.md",
+    "Ocio/Juegos/Warhammer 40.000/Tiránidos.md",
+    "Ocio/Juegos/Warhammer 40.000/Warhammer 40.000.md",
+    "Ocio/Juegos/Juegos de mesa.md",
+    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
+    "Ocio/Juegos/Videojuegos.md",
+    "Ocio/Juegos/Pokemon/Pokémon.md",
+    "Ocio/Juegos/Pokemon/EquipoPKMN_1.md",
+    "Ocio/Juegos/Pokemon/Tanques.md",
+    "Ocio/Juegos/YuGiOh!/Branded.md",
+    "Ocio/Juegos/YuGiOh!/Untitled.base",
+    "Ocio/Juegos/YuGiOh!/Reglas Munchkin.md",
+    "Ocio/Juegos/YuGiOh!/Red Dragon Archifiend.md",
+    "Ocio/Juegos/YuGiOh!/Purrely.md",
+    "Ocio/Juegos/YuGiOh!/Munchkin.md",
+    "Ocio/Juegos/YuGiOh!/Monarchs.md",
+    "Ocio/Juegos/YuGiOh!/Juegos de mesa.md",
+    "Ocio/Juegos/YuGiOh!/Fire Kings.md",
+    "Ocio/Juegos/YuGiOh!/Extensiones.md",
+    "Ocio/Juegos/YuGiOh!/Dragon Ruler.md",
+    "Ocio/Juegos/YuGiOh!/D&D.md",
+    "Ocio/Juegos/YuGiOh!",
+    "Ocio/Juegos/Nueva carpeta",
+    "Ocio/Juegos/Pokemon",
+    "Recursos/Anexos/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg",
+    "Ocio/Juegos/Age of Sigmar",
+    "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/VigíasDeLaMuerte.pdf",
+    "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Votann.pdf",
+    "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Tiránidos.pdf",
+    "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Sororitas.pdf",
+    "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/TemplariosNegros.pdf",
+    "Recursos/Anexos/mathias-reding-y2XzZwgETw0-unsplash.jpg",
+    "Recursos/Anexos/fox-hyde-XgPf6yNdppI-unsplash.jpg",
+    "Recursos/Anexos/Pasted image 20251206175253.png",
+    "Recursos/Anexos/Pasted image 20251206173206.png",
+    "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash.jpg",
+    "Recursos/Anexos/ulysse-pointcheval-1WmlAiYgnoI-unsplash.jpg",
+    "Ocio/Anexos/Pasted image 20250729223112.jpg",
+    "Ocio/Anexos/Pasted image 20250729223127.jpg",
+    "Ocio/Anexos/Pasted image 20250729230200.jpg"
   ]
 }

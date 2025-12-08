@@ -1,0 +1,14 @@
+## Vanila
+- [x] Munchkin 2: Hacha descomunal. ✅ 2025-02-09
+- [x] Munchkin 3: Pifias clericales. ✅ 2024-10-08
+- [x] Munchkin 4: ¡Qué locura de montura!. ✅ 2024-10-08
+- [x] Munchkin 5: Exploradores explotadores. ✅ 2025-02-09
+- [ ] Munchkin 6: Mazmorras majaretas.
+- [ ] Munchkin 6.5: Tumbas terroríficas.
+- [ ] Munchkin 7: Trampas a dos manos.
+- [ ] Munchkin 8: Centauros de la mazmorra.
+- [x] Munchkin 9: Jurásico sarcástico. ✅ 2024-10-08
+- [ ] Munchkin destruye la Navidad.
+- [ ] Munchkinomicon
+- [x] Munchkin tesoros ocultos. ✅ 2024-10-08
+- [x] Munchkin dragones molones. ✅ 2024-10-08

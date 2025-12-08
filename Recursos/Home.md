@@ -3,7 +3,7 @@ banner: "![[872037.png]]"
 cssclasses:
   - dashboard
 banner_x: 0.5
-banner_y: 0.53067
+banner_y: 0.44467
 ---
 # <center>Vault Info</center>
 
@@ -16,7 +16,6 @@ banner_y: 0.53067
 - 2º de carrera
     - [[Spicy-Sweet Buffalo Popcorn]]
     - [[Guest list]]
-    - [Jalapeno Popper Wantons](https://www.allrecipes.com/recipe/166991/jalapeno-popper-wontons/)
 - 3º de Carrera
     - [[Family Recipes]]
     - [[Family Calendar]]
@@ -30,30 +29,19 @@ banner_y: 0.53067
 # <center>Proyectos</center>
 
 - Informáticos
-    - [[Bathroom Remodel]]
-    - [[Paint entryway]]
-    - [[Research building Garage]]
+    + [[Fossil Register Manager]]
+    + [[Communitary Directory]]
 - Aprendizaje
-	- [[React.js]]
-	- [[TailwindCSS]]
-
+	+ [[Programación]]
+- Personales
+	- [[Viajes]]
 # <center>Ocio</center>
 - Juegos
-    - [[YuGiOh]]
-    - [[Pokemon]]
-    - [[Terraria]]
-- Viajes
-	- [[VIAJE - Budapest]]
-	- [[VIAJE - Asturias]]
-	- [[VIAJE - El Hierro]]
+    - [[Juegos de mesa]]
+    - [[Videojuegos]]
 + Libros
 	+ [[Planes de lectura]]
 	+ [[Librería]]
-+ Lore
-	+ [[Warhammer 40.000]]
-	+ [[Age of Sigmar]]
 + Recetas
 	+ [[Postres]]
 	+ [[Platos]]
-	+ [[Lista de recetas pendientes]]
-
