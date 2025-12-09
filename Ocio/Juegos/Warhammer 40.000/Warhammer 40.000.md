@@ -13,5 +13,5 @@ banner_y: 0.122
 + [[Astartes Hereticus]]
 + [[Necrones]]
 + [[Mechanicum]]
-# <center>Reglas</center>
+# <center>Modelismo</center>
 + [[Miniaturas por comprar]]

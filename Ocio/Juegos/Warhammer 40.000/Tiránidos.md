@@ -132,27 +132,21 @@ Tras esto Marneus Calgar lideró lo que quedaba de la flota imperial para perseg
 Al volver a Macragge observaron la pírrica victoria frente al enemigo, en la cual se perdió a toda la primera Compañía de Exterminadores.
 
 ## Kraken
-
 ### Esquema de color
 
 Las criaturas de la Flota Enjambre Kraken tienen una pauta cromática de piel color hueso con caparazones rojizos. Sus armas simbióticas suelen ser de color negro o hueso.
-
-  
-
 ### Historia
 
 Fue la flota que ocasionó la Segunda Guerra Tiránida, 250 años después de la primera, tras la cual se determinó que los recién nombrados Genesteeler, descubiertos en las lunas de **Ymgarl** eran de naturaleza **Tiránida** por lo que mandaron al capítulo de los Salamandras para purgarlas.
 
-  
-
 Tras Behemoth se estableció un régimen militar en la franja sureste de la galaxia, zona de entrada de la Flota Enjambre, sin embargo comenzaron una serie de disturbios y motines en contra del régimen por lo que iniciaron investigaciones en el Segmentum Ultima purgando a supuestos traidores inclusive en Terra.
 
-  
+Mientras eso ocurría la flota enjambre atacó como un solo organismo diferentes mundos imperiales y mediante flotas menores perfectamente sincronizadas amplió el alcance de la sombra en la disformidad, debido a eso se tardo en transmitir los primeros informes de ataques invasores.
 
-Mientras eso ocurría la flota enjambre atacó como un solo organismo diferentes mundos imperiales y mediante flotas menores amplió el alcance de la sombra en la disformidad, debido a eso se tardo en transmitir los primeros informes de ataques invasores.
+Uno de los planetas más importantes en estas rebeliones planetarias fue **Ichar IV** el cual era dirigido por un culto al Emperador llamado la hermandad, la revuelta escaló a tal magnitud que se enviaron a los *Ultramarines* y a un inquisidor del *Hordo Hereticus* llamado *Agmar*. El día 39 de la revuelta 20 marines veteranos de la 1º compañía enfundados en armaduras de exterminador bajaron hasta las profundidades de la Iglesa de Lomas donde se originaba el culto, en las cavernas de la misma encontraron al Patriarca Gensteeler, descubriendo que esto era una operación de esta subespecie tiránida.
 
-  
-  
+*Me quede en el apartado de Kraken se acerca de la wiki oficial*
+
 
 ## Gorgona
 
