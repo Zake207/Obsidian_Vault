@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "519c6d5795fcfb2f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "31b109df41961149",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +20,20 @@
               },
               "icon": "lucide-file",
               "title": "Zombies in Spaceland"
+            }
+          },
+          {
+            "id": "3f9c236af715cb04",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2462403426",
+                "title": "Comunidad de Steam :: Guía :: ALL YOU NEED GUIDE TO ZOMBIES IN SPACELAND",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Comunidad de Steam :: Guía :: ALL YOU NEED GUIDE TO ZOMBIES IN SPACELAND"
             }
           }
         ]
@@ -206,13 +220,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "31b109df41961149",
   "lastOpenFiles": [
+    "Ocio/Juegos/Zombies in Spaceland.md",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153642.png",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153637.png",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153558.png",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153522.png",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153416.png",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153344.png",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153324.png",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153305.png",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153258.png",
+    "Ocio/Juegos/Anexos/Pasted image 20251227153228.png",
     "Recursos/Home.md",
+    "Ocio/Libros/FALSOS DIOSES.md",
     "Ocio/Libros/Librería.md",
     "Ocio/Libros/HORUS, SEÑOR DE LA GUERRA.md",
+    "Ocio/Libros/FULGRIM.md",
     "Ocio/Juegos/Videojuegos.md",
-    "Ocio/Juegos/Zombies in Spaceland.md",
     "Ocio/Juegos/Super Easter-Egg.md",
     "Ocio/Juegos/COD - Zombies.md",
     "Ocio/Juegos/Beast from Beyond.md",
@@ -220,10 +246,8 @@
     "Ocio/Juegos/Attack of the Radioactive Thing.md",
     "Ocio/Juegos/Shaoling Shuffle.md",
     "Ocio/Juegos/Rave in the Redwoods.md",
-    "Ocio/Juegos/Anexos/Pasted image 20251213222332.png",
     "Ocio/Juegos/Anexos",
     "Recursos/Banners.md",
-    "Recursos/Anexos/Pasted image 20251213193119.png",
     "Ocio/Juegos/Warhammer 40.000/Tiránidos.md",
     "Ocio/Juegos/Warhammer 40.000/Warhammer 40.000.md",
     "Ocio/Juegos/Juegos de mesa.md",
@@ -234,25 +258,14 @@
     "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
     "Ocio/Juegos/Pokemon/Pokémon.md",
     "Ocio/Juegos/Pokemon/EquipoPKMN_1.md",
-    "Ocio/Juegos/Pokemon/Tanques.md",
-    "Ocio/Juegos/YuGiOh!/Branded.md",
     "Ocio/Juegos/YuGiOh!/Untitled.base",
-    "Ocio/Juegos/YuGiOh!/Reglas Munchkin.md",
     "Ocio/Juegos/YuGiOh!",
     "Ocio/Juegos/Nueva carpeta",
     "Ocio/Juegos/Pokemon",
-    "Recursos/Anexos/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg",
     "Ocio/Juegos/Age of Sigmar",
     "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/VigíasDeLaMuerte.pdf",
     "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Votann.pdf",
     "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Tiránidos.pdf",
-    "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Sororitas.pdf",
-    "Recursos/Anexos/mathias-reding-y2XzZwgETw0-unsplash.jpg",
-    "Recursos/Anexos/fox-hyde-XgPf6yNdppI-unsplash.jpg",
-    "Recursos/Anexos/Pasted image 20251206175253.png",
-    "Recursos/Anexos/Pasted image 20251206173206.png",
-    "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash.jpg",
-    "Recursos/Anexos/ulysse-pointcheval-1WmlAiYgnoI-unsplash.jpg",
-    "Ocio/Anexos/Pasted image 20250729223112.jpg"
+    "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Sororitas.pdf"
   ]
 }

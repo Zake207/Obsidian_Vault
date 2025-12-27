@@ -1,7 +1,7 @@
 ## Datos
 **Autor:** Dan Abnett
 **Fecha:** 2006
-**Estado:** EN CURSO
+**Estado:** FINALIZADO
 ## Resumen
 ### Parte I
 La novela comienza narrando como el recién nombrado, Señor de la Guerra Horus y sus Lobos Lunares se encontraban tratando de negociar con un planeta de humanos, los cuales eran ajenos al imperio y eran gobernados por otro emperador, al ver que la diplomacia no era fructífera, Horus decidió comenzar la guerra, pero tratando de no provocar demasiados daños. 
