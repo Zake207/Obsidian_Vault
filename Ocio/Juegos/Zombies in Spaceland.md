@@ -61,6 +61,9 @@ Al completar este paso comenzarán a generarse payasos por todo el mapa durante 
 ### Face Melter
 ### Shredder
 ### Head Cutter
++ **Yeti** Se consigue en Polar Peak colocando 3 monedas verdes en la máquina expendedora(está en la tienda de regalos).
++ **Cristal** Se debe completar el desafío del ovni de Steel Dragon (la trampa que se encuentra antes de llegar a la tienda de regalos)
++ **Batería** Se debe comprar una Crio-Granada, juntar 20 zombies, llevarlos a la entrada de polar peak y lanzar la granada al yeti de la entrada, este comenzará a congelar zombies en la zona, hay que matar a los zombies afectados con Headshots. La batería estará en la tienda de regalos.
 ### Dischord
 + **Bola de discoteca:** Metiendo una moneda de cada color en la máquina expendedora de los recreativos(está entre los recreativos y los coches de choque)
 + **Cristal verde:** Hay que completar el desafío del ovni que está en la pista del baile de los recreativos y disparar su diana correspondiente en la boca del cocodrilo
@@ -101,6 +104,7 @@ Los núcleos a recoger son los siguientes:
 
 Todos los ovnis piden 25-30 bajas en su respectiva trampa y luego harán un cambio de ruta, ahí hay que hacer 30-35 bajas cerca del ovni *con un arma que tenga el núcleo arcano equipado*.
 # N31l
+Al completar a N31l se podrá llamar al DJ
 # BossFight
 El alien aparece en el portal del centro (uno por jugador).
 - Lanza disparos que ralentizan al contacto
