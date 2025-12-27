@@ -4,11 +4,10 @@
 **Guía ->** [Enlace](https://steamcommunity.com/sharedfiles/filedetails/?id=2462403426)
 ![[Pasted image 20251213222332.png]]
 # Electricidad
-Hay que ir activando las palancas de electricidad para devolver la electricidad a las zonas.
-
+Hay que ir activando las palancas de electricidad para devolver la electricidad a las zonas del parque. Las ubicaciones son las siguientes:
 
 # Pack up Punch
-Hay que activar los 4 portales y pasar a través de ellos para poder viajar una vez por ronda al Pack Up Punch 
+Hay que activar los 4 portales y pasar a través de ellos para poder viajar una vez por ronda al Pack Up Punch, las ubicaciones son las siguientes:
 # Easter Egg
 Primero hay que reunir las piezas del Seticom:
 + **Paraguas**
@@ -69,5 +68,12 @@ Cuando caiga el alien, el ovni seguirá al jugador y dispará en su contra.
 
 Hay que entrar en el Portal, colocar los fusibles en la máquina y mejorar la pistola láser, con esta se realiza el paso siguiente.
 
-Hay que disparar a las 5 luces del arco del puente del inicio de tal forma que el ultimo se dispare cuando el ovni esté en el centro, encima del portal. Al destruirse este
+Hay que disparar a las 5 luces del arco del puente del inicio de tal forma que el ultimo se dispare cuando el ovni esté en el centro, encima del portal. Al destruirse este se nos dará la llave de almas.
 # Estrategias
+## Pre-Bossfight
+## Bossfight
+Hacer una bola de zombies y controlarla todo el tiempo.
+Solo disparar al alien cuando el tio sea seguro, lo más cerca posible (cuidado con su golpe cuerpo a cuerpo).
+Pastorear a los zombies lo más cerca del portal, evitar llevarlos a la zona del inicio, ya que si el alien cae en ese momento, no dará tiempo de golpearlo.
+Si falta munición las mochilas de los zombies pueden dejar cargadores.
+NO MALGASTAR MUNICIÓN

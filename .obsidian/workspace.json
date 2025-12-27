@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ocio/Libros/HORUS, SEÑOR DE LA GUERRA.md",
+                "file": "Ocio/Juegos/Zombies in Spaceland.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HORUS, SEÑOR DE LA GUERRA"
+              "title": "Zombies in Spaceland"
             }
           }
         ]
@@ -45,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ocio/Libros/HORUS, SEÑOR DE LA GUERRA.md",
+                "file": "Ocio/Juegos/Zombies in Spaceland.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,14 +115,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of HORUS, SEÑOR DE LA GUERRA"
+              "title": "Gráfico de Zombies in Spaceland"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945
+    "width": 226.5
   },
   "right": {
     "id": "44f3cdaf8d5fd277",
@@ -192,30 +192,42 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "switcher:Abrir selector rápido": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Ocio/Libros/Librería.md",
     "Recursos/Home.md",
+    "Ocio/Libros/Librería.md",
+    "Ocio/Libros/HORUS, SEÑOR DE LA GUERRA.md",
+    "Ocio/Juegos/Videojuegos.md",
+    "Ocio/Juegos/Zombies in Spaceland.md",
+    "Ocio/Juegos/Super Easter-Egg.md",
+    "Ocio/Juegos/COD - Zombies.md",
+    "Ocio/Juegos/Beast from Beyond.md",
+    "Ocio/Juegos/().md",
+    "Ocio/Juegos/Attack of the Radioactive Thing.md",
+    "Ocio/Juegos/Shaoling Shuffle.md",
+    "Ocio/Juegos/Rave in the Redwoods.md",
+    "Ocio/Juegos/Anexos/Pasted image 20251213222332.png",
+    "Ocio/Juegos/Anexos",
+    "Recursos/Banners.md",
+    "Recursos/Anexos/Pasted image 20251213193119.png",
     "Ocio/Juegos/Warhammer 40.000/Tiránidos.md",
     "Ocio/Juegos/Warhammer 40.000/Warhammer 40.000.md",
     "Ocio/Juegos/Juegos de mesa.md",
     "Ocio/Libros/Planes de lectura.md",
-    "Ocio/Juegos/Videojuegos.md",
-    "Ocio/Libros/HORUS, SEÑOR DE LA GUERRA.md",
     "Ocio/Recetas/Postres.md",
     "Ocio/Recetas/Crema de limón.md",
     "Ocio/Recetas/Tarta de requesón con arándanos.md",
@@ -226,15 +238,6 @@
     "Ocio/Juegos/YuGiOh!/Branded.md",
     "Ocio/Juegos/YuGiOh!/Untitled.base",
     "Ocio/Juegos/YuGiOh!/Reglas Munchkin.md",
-    "Ocio/Juegos/YuGiOh!/Red Dragon Archifiend.md",
-    "Ocio/Juegos/YuGiOh!/Purrely.md",
-    "Ocio/Juegos/YuGiOh!/Munchkin.md",
-    "Ocio/Juegos/YuGiOh!/Monarchs.md",
-    "Ocio/Juegos/YuGiOh!/Juegos de mesa.md",
-    "Ocio/Juegos/YuGiOh!/Fire Kings.md",
-    "Ocio/Juegos/YuGiOh!/Extensiones.md",
-    "Ocio/Juegos/YuGiOh!/Dragon Ruler.md",
-    "Ocio/Juegos/YuGiOh!/D&D.md",
     "Ocio/Juegos/YuGiOh!",
     "Ocio/Juegos/Nueva carpeta",
     "Ocio/Juegos/Pokemon",
@@ -244,15 +247,12 @@
     "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Votann.pdf",
     "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Tiránidos.pdf",
     "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/Sororitas.pdf",
-    "Ocio/Juegos/Warhammer 40.000/CODEX/10º edición/TemplariosNegros.pdf",
     "Recursos/Anexos/mathias-reding-y2XzZwgETw0-unsplash.jpg",
     "Recursos/Anexos/fox-hyde-XgPf6yNdppI-unsplash.jpg",
     "Recursos/Anexos/Pasted image 20251206175253.png",
     "Recursos/Anexos/Pasted image 20251206173206.png",
     "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash.jpg",
     "Recursos/Anexos/ulysse-pointcheval-1WmlAiYgnoI-unsplash.jpg",
-    "Ocio/Anexos/Pasted image 20250729223112.jpg",
-    "Ocio/Anexos/Pasted image 20250729223127.jpg",
-    "Ocio/Anexos/Pasted image 20250729230200.jpg"
+    "Ocio/Anexos/Pasted image 20250729223112.jpg"
   ]
 }
