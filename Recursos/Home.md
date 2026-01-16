@@ -15,11 +15,11 @@ banner_y: 0.44467
 - 2º de carrera
 	- [[Redes]]
 	- [[Estadística]]
-	- [[FIS]]
+	- [[Fundamentos de la Ingeniería de software]]
 	- [[Administración de Sistemas]]
-	- [[CDyAL]]
-	- [[AYEDA]]
-	- [[CYA]]
+	- [[Código Deontológico]]
+	- [[Algoritmos y Estructura de Datos Avanzada]]
+	- [[Computabilidad y algoritmia]]
 
 - 3º de Carrera
 	- [[Gestión de proyectos informáticos]]

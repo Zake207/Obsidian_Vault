@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/Home.md",
-                "mode": "preview",
+                "file": "Recursos/Budapest (20-26 Enero 2026).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Budapest (20-26 Enero 2026)"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recursos/Home.md",
+                "file": "Recursos/Budapest (20-26 Enero 2026).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Budapest (20-26 Enero 2026)"
             }
           }
         ]
@@ -208,7 +208,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Recursos/Budapest (20-26 Enero 2026).md",
+    "Recursos/Viajes.md",
     "Recursos/Home.md",
+    "Universidad/CYA/Computabilidad y algoritmia.md",
+    "Universidad/AYEDA/Algoritmos y Estructura de Datos Avanzada.md",
+    "Universidad/CDyAL/Código Deontológico.md",
+    "Universidad/FIS/Fundamentos de la Ingeniería de software.md",
     "Universidad/TIO/Anexos/Pasted image 20250916121840.png",
     "Universidad/TIO/Anexos/Pasted image 20250916121808.png",
     "Universidad/TIO/Tecnologías de la Información de las Organizaciones.md",
@@ -248,12 +254,6 @@
     "Universidad/SSI/Módulo 2 - Comunicaciones Seguras.md",
     "Universidad/SSI/Modulo 1 - Preliminares y conceptos básicos.md",
     "Universidad/SSI/Anexos",
-    "Universidad/DSI/Tema 4 - Node.js.md",
-    "Universidad/DSI/Tema 2 - Principios SOLID.md",
-    "Universidad/DSI/Tema 1 - Typescrypt.md",
-    "Universidad/DSI/Desarrollo de Sistemas Informáticos.md",
-    "Universidad/BBDD/Bases de Datos.md",
-    "Universidad/BBDD/BBDD - Tema 4.md",
     "Universidad/CDyAL/Mapa Conceptual. Tema 4.canvas",
     "Universidad/Admin/grafo.canvas"
   ]
