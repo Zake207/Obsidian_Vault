@@ -7,3 +7,6 @@
 ![[lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg]]
 ![[Pasted image 20251213193119.png]]
 ![[Pasted image 20251228210637.png]]
+
+
+![[serie-filosofía-diccionario.webp]]

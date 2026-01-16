@@ -8,20 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Universidad  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431394
-      }
-    },
-    {
-      "query": "path:Proyectos  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "path:Ocio  ",
       "color": {
         "a": 1,
@@ -39,7 +25,14 @@
       "query": "path:Recursos",
       "color": {
         "a": 1,
-        "rgb": 16642203
+        "rgb": 16624477
+      }
+    },
+    {
+      "query": "path:Universidad  ",
+      "color": {
+        "a": 1,
+        "rgb": 16646005
       }
     }
   ],
@@ -53,6 +46,6 @@
   "repelStrength": 10.9895833333333,
   "linkStrength": 1,
   "linkDistance": 198,
-  "scale": 0.1903238722225225,
+  "scale": 0.03759483895753529,
   "close": true
 }
