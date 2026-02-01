@@ -36,6 +36,7 @@ banner_y: 0.44467
 	- [[Sistemas y Tecnologías Web]]
 	- [[Administración y Diseño de Bases de Datos]]
 	- [[Tecnologías de la Información de las Organizaciones]]
+	- [[Inteligencia Emocional]]
 # <center>Proyectos</center>
 
 - Informáticos
