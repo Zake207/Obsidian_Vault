@@ -1,10 +1,7 @@
 ---
 banner: "![[872037.png]]"
-cssclasses:
-  - dashboard
-banner_x: 0.5
-banner_y: 0.44467
 ---
+
 # <center>Vault Info</center>
 
 - 🗄️ Notas recientes `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`

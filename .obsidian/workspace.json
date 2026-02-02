@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "bcbcbcd218a99a07",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "499753f422ca2a8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
-                "mode": "source",
+                "file": "Recursos/Home.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Blue-Eyes-Invoked"
+              "title": "Home"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
+                "file": "Recursos/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Blue-Eyes-Invoked"
+              "title": "Gráfico de Home"
             }
           }
         ]
@@ -206,14 +206,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "499753f422ca2a8d",
   "lastOpenFiles": [
+    "Recursos/Home.md",
+    "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
     "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
     "Ocio/Juegos/YuGiOh!/Swordsoul.md",
-    "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
     "Ocio/Juegos/YuGiOh!/Vanquish Soul.md",
     "Ocio/Juegos/Juegos de mesa.md",
-    "Recursos/Home.md",
     "Universidad/UA/Tema 2 -Accesibilidad.md",
     "Universidad/UA/Clase 2.1. Accesibilidad.pdf",
     "Universidad/UA/Usabilidad y Accesibilidad.md",
