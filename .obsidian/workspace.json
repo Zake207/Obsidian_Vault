@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/Home.md",
-                "mode": "preview",
+                "file": "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "407595e916c34d56",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "Blue-Eyes-Invoked"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -47,7 +34,6 @@
       {
         "id": "df1ee258fcd67654",
         "type": "tabs",
-        "dimension": 50.142857142857146,
         "children": [
           {
             "id": "5667c977ae5d3c27",
@@ -59,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -94,7 +80,6 @@
       {
         "id": "5b7ea9a4ea4f7cfc",
         "type": "tabs",
-        "dimension": 49.857142857142854,
         "children": [
           {
             "id": "dfb98938d932d53f",
@@ -102,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Universidad/IE/IE - Tema 1.md",
+                "file": "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,15 +115,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of IE - Tema 1"
+              "title": "Gráfico de Blue-Eyes-Invoked"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "44f3cdaf8d5fd277",
@@ -208,68 +192,68 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "switcher:Abrir selector rápido": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "407595e916c34d56",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
+    "Ocio/Juegos/YuGiOh!/Swordsoul.md",
+    "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
+    "Ocio/Juegos/YuGiOh!/Vanquish Soul.md",
+    "Ocio/Juegos/Juegos de mesa.md",
     "Recursos/Home.md",
-    "Universidad/IE/IE - Tema 1.md",
-    "Universidad/IE/Inteligencia Emocional.md",
-    "Universidad/IE",
-    "Recursos/Budapest (20-26 Enero 2026).md",
-    "Recursos/Viajes.md",
-    "Universidad/CYA/Computabilidad y algoritmia.md",
-    "Universidad/AYEDA/Algoritmos y Estructura de Datos Avanzada.md",
-    "Universidad/CDyAL/Código Deontológico.md",
-    "Universidad/FIS/Fundamentos de la Ingeniería de software.md",
-    "Universidad/TIO/Anexos/Pasted image 20250916121840.png",
+    "Universidad/UA/Tema 2 -Accesibilidad.md",
+    "Universidad/UA/Clase 2.1. Accesibilidad.pdf",
+    "Universidad/UA/Usabilidad y Accesibilidad.md",
+    "Universidad/UA/Tema 1 - Diseño y desarrollo de aplicaciones.md",
+    "Universidad/UA/Clase 1.1. Diseño, desarrollo e implementación de sistemas, aplicaciones y servicios.pdf",
+    "Universidad/UA",
     "Universidad/TIO/Anexos/Pasted image 20250916121808.png",
-    "Universidad/TIO/Tecnologías de la Información de las Organizaciones.md",
-    "Universidad/TIO/Tecnologia.pdf",
+    "Universidad/TIO/Anexos/Pasted image 20250916121840.png",
     "Universidad/TIO/TIO - Tema 2.md",
-    "Universidad/TIO/TIO - Tema 1.md",
     "Universidad/TIO/TIO - Proyecto Final.md",
+    "Universidad/TIO/Tecnologia.pdf",
+    "Universidad/TIO/TIO - Tema 1.md",
+    "Universidad/TIO/Tecnologías de la Información de las Organizaciones.md",
     "Universidad/TIO/Anexos",
     "Universidad/TIO",
     "Universidad/STW/Anexos/Pasted image 20250918115858.png",
-    "Universidad/STW/Sistemas y Tecnologías Web.md",
     "Universidad/STW/STW - Tema 1.md",
+    "Universidad/STW/Sistemas y Tecnologías Web.md",
     "Universidad/STW/Anexos",
     "Universidad/STW",
-    "Universidad/ADBD/ADBD - Tema 1.md",
-    "Universidad/ADBD/Administración y Diseño de Bases de Datos.md",
-    "Universidad/ADBD/ADBD - Problemas 2.md",
-    "Universidad/ADBD/ADBD - Problemas 1.md",
-    "Universidad/ADBD/2025-2026 ADBD Problemas 2. Diseño conceptual, lógico y físico.pdf",
-    "Universidad/ADBD/2025-2026 ADBD 2.1 Diseño conceptual, lógico y físico. Modelo entidad-relación.pdf",
-    "Universidad/ADBD/Anexos/Pasted image 20250925115848.png",
-    "Universidad/ADBD/Anexos/ADBD-PR2.png",
-    "Universidad/ADBD/Anexos/Pasted image 20250925114851.png",
-    "Universidad/ADBD/Anexos/Pasted image 20250924142144.png",
-    "Universidad/ADBD/Anexos/Pasted image 20250924134825.png",
-    "Universidad/ADBD/Anexos/Pasted image 20250924134723.png",
-    "Universidad/ADBD/Anexos/Pasted image 20250924133229.png",
-    "Universidad/ADBD/Anexos",
-    "Universidad/ADBD/ADBD - Tema 2.md",
-    "Universidad/ADBD/ADBD - Práctica 2.md",
-    "Universidad/ADBD/ADBD - Tema 3.md",
-    "Universidad/ADBD",
+    "Universidad/SSI/Anexos/Pasted image 20250218112523.png",
+    "Universidad/SSI/Anexos/Pasted image 20250407130002.png",
+    "Universidad/SSI/Anexos/Pasted image 20250407125840.png",
+    "Universidad/SSI/Anexos/Pasted image 20250407125702.png",
+    "Universidad/SSI/Anexos/Pasted image 20250407124209.png",
+    "Universidad/SSI/Anexos/Pasted image 20250407123031.png",
+    "Universidad/SSI/Anexos/Pasted image 20250407122950.png",
+    "Universidad/SSI/2SSICifradoenFlujosinRC4niE0.pdf",
     "Universidad/SSI/Seguridad en sistemas informáticos.md",
     "Universidad/SSI/Módulo 5 - Sistemas de autenticación.md",
-    "Universidad/SSI/Módulo 4 - Certificación de claves.md",
+    "Universidad/SSI/Modulo 1 - Preliminares y conceptos básicos.md",
     "Universidad/SSI/Módulo 3 - Clave Pública.md",
+    "Universidad/SSI/Módulo 4 - Certificación de claves.md",
+    "Universidad/SSI/Módulo 2 - Comunicaciones Seguras.md",
+    "Universidad/SSI/Anexos",
+    "Universidad/SIPC/Tema 4 (Diseño de interfaces interactivas).md",
+    "Universidad/SIPC/Tema 2 (Factores humanos).md",
+    "Universidad/SIPC/Voiceflow.md",
+    "Universidad/SIPC/Sistemas de interacción.md",
+    "Universidad/SIPC/Tema 3 (Diseño centrado al usuario).md",
     "Universidad/CDyAL/Mapa Conceptual. Tema 4.canvas",
     "Universidad/Admin/grafo.canvas"
   ]

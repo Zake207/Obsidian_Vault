@@ -1,13 +1,27 @@
-##
+## Ruling general
 [[Reglas de Juego]]
 
 ## Decks
-+ [[Blue-Eyes]]
-+ [[Cyber-Style]]
++ [[Blue-Eyes-Invoked]]
++ [[Branded]]
++ [[Mermail]]
+
 + [[Fire Kings]]
++ [[Cyber-Style]]
++ [[Dragon Ruler]]
 + [[Purrely]]
 + [[Monarchs]]
 + [[Red Dragon Archifiend]]
-+ [[Dragon Ruler]]
-+ [[Branded]]
-## Mazos
++ [[Memento]]
++ [[Swordsoul]]
++ + [[Yummy]]
+
++ [[Vanquish Soul]]
++ [[Lunalight]]
++ [[Dracotail]]
++ [[Mitsurugi]]
++ [[GemKnight]]
++ [[Ice Barrier]]
+
+
+
