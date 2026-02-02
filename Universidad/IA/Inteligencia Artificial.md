@@ -1,7 +1,8 @@
 #índice #carrera_año3 #cuatri_1 
 ___
 ### Teoría:
-[[Espacio de estados]]
+[[IA - Introducción]]
+[[IA - Espacio de estados]]
 [[Búsquedas no informadas]]
 [[Búsqueda informadas]]
 [[Estrategias de búsqueda en juegos]]

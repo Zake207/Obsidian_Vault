@@ -1,17 +1,17 @@
 #índice #carrera_año3 #cuatri_1
 ___
 ### Teoría:
-[[Carrera/FORMACIÓN BÁSICA/Estadística/Tema 1|Tema 1]]
+[[Tema 1]]
 + [[PROBLEMAS_RESUELTOS.pdf]]
 
-[[Carrera/FORMACIÓN BÁSICA/Estadística/Tema 2]]
-[[Carrera/FORMACIÓN BÁSICA/Estadística/Tema 3|Tema 3]]
-[[Carrera/FORMACIÓN BÁSICA/Estadística/Tema 4|Tema 4]]
+[[Tema 2]]
+[[Tema 3]]
+[[Tema 4]]
 + [[Tema 4_Probabilidad.pdf|PDF]]
 
-[[Carrera/FORMACIÓN BÁSICA/Estadística/Tema 5|Tema 5]]
-[[Carrera/FORMACIÓN BÁSICA/Estadística/Tema 6|Tema 6]]
-[[Carrera/FORMACIÓN BÁSICA/Estadística/Tema 7|Tema 7]]
+[[Tema 5]]
+[[Tema 6]]
+[[Universidad/Estadística/Tema 7|Tema 7]]
 [[Tema 8|Tema 8]]
 [[Tema 9]]
 [[Tema 10]]

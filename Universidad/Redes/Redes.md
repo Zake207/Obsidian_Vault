@@ -2,7 +2,7 @@
 ________________________________________________________________________
 ### Teoría
 Tema 1
-+ [[Introducción]]
++ [[Universidad/Redes/Introducción]]
 
 Tema 2
 + [[Capa Física]]

@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bcbcbcd218a99a07",
+        "id": "2189c59a09e661dd",
         "type": "tabs",
         "children": [
           {
-            "id": "499753f422ca2a8d",
+            "id": "a881de3c2811a58a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recursos/Home.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -54,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"banner\"]",
+                "query": "[\"banner_y\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +82,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recursos/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +109,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Home"
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -138,13 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursos/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Home"
+              "title": "Esquema"
             }
           },
           {
@@ -206,9 +199,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "499753f422ca2a8d",
+  "active": "a876abedb1aff962",
   "lastOpenFiles": [
     "Recursos/Home.md",
+    "Universidad/SIPC/Sistemas de interacción.md",
+    "Universidad/SIPC/Tema 1 (Introducción).md",
+    "Universidad/SIPC/(SIPC) Tema 1.md",
+    "Universidad/CDyAL/TEMA 3.md",
+    "Universidad/CDyAL/Código Deontológico.md",
+    "Universidad/Estadística/Tema 7.md",
+    "Universidad/Estadística/Estadística.md",
+    "Universidad/Estadística/Tema 3.md",
+    "Universidad/GPI/Tema 7.md",
+    "Universidad/Estadística/Tema 6.md",
+    "Universidad/IA/Inteligencia Artificial.md",
+    "Universidad/Estadística/Tema 5.md",
+    "Universidad/GPI/Gestión de proyectos informáticos.md",
+    "Universidad/GPI/Tema 2.md",
+    "Universidad/IA/IA - Espacio de estados.md",
+    "Universidad/IA/IA - Introducción.md",
+    "Universidad/IA/Búsquedas no informadas.md",
+    "Universidad/GPI/Tema 6.md",
+    "Ocio/Libros/FALSOS DIOSES.md",
     "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
     "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
     "Ocio/Juegos/YuGiOh!/Swordsoul.md",
@@ -216,22 +228,14 @@
     "Ocio/Juegos/Juegos de mesa.md",
     "Universidad/UA/Tema 2 -Accesibilidad.md",
     "Universidad/UA/Clase 2.1. Accesibilidad.pdf",
-    "Universidad/UA/Usabilidad y Accesibilidad.md",
-    "Universidad/UA/Tema 1 - Diseño y desarrollo de aplicaciones.md",
     "Universidad/UA/Clase 1.1. Diseño, desarrollo e implementación de sistemas, aplicaciones y servicios.pdf",
     "Universidad/UA",
     "Universidad/TIO/Anexos/Pasted image 20250916121808.png",
     "Universidad/TIO/Anexos/Pasted image 20250916121840.png",
-    "Universidad/TIO/TIO - Tema 2.md",
-    "Universidad/TIO/TIO - Proyecto Final.md",
     "Universidad/TIO/Tecnologia.pdf",
-    "Universidad/TIO/TIO - Tema 1.md",
-    "Universidad/TIO/Tecnologías de la Información de las Organizaciones.md",
     "Universidad/TIO/Anexos",
     "Universidad/TIO",
     "Universidad/STW/Anexos/Pasted image 20250918115858.png",
-    "Universidad/STW/STW - Tema 1.md",
-    "Universidad/STW/Sistemas y Tecnologías Web.md",
     "Universidad/STW/Anexos",
     "Universidad/STW",
     "Universidad/SSI/Anexos/Pasted image 20250218112523.png",
@@ -242,18 +246,7 @@
     "Universidad/SSI/Anexos/Pasted image 20250407123031.png",
     "Universidad/SSI/Anexos/Pasted image 20250407122950.png",
     "Universidad/SSI/2SSICifradoenFlujosinRC4niE0.pdf",
-    "Universidad/SSI/Seguridad en sistemas informáticos.md",
-    "Universidad/SSI/Módulo 5 - Sistemas de autenticación.md",
-    "Universidad/SSI/Modulo 1 - Preliminares y conceptos básicos.md",
-    "Universidad/SSI/Módulo 3 - Clave Pública.md",
-    "Universidad/SSI/Módulo 4 - Certificación de claves.md",
-    "Universidad/SSI/Módulo 2 - Comunicaciones Seguras.md",
     "Universidad/SSI/Anexos",
-    "Universidad/SIPC/Tema 4 (Diseño de interfaces interactivas).md",
-    "Universidad/SIPC/Tema 2 (Factores humanos).md",
-    "Universidad/SIPC/Voiceflow.md",
-    "Universidad/SIPC/Sistemas de interacción.md",
-    "Universidad/SIPC/Tema 3 (Diseño centrado al usuario).md",
     "Universidad/CDyAL/Mapa Conceptual. Tema 4.canvas",
     "Universidad/Admin/grafo.canvas"
   ]
