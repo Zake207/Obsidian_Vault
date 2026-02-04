@@ -1,6 +1,5 @@
 [DECK PROFILE](https://duelingnexus.com/editor/c0e0c71ef941ed3672dde32d6b52deac)
 # Cartas
-
 ## DECK
 ### Inicio
 #### Sage with Eyes of Blue

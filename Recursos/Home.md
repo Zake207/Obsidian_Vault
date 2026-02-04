@@ -1,5 +1,7 @@
 ---
 banner: "![[872037.png]]"
+cssclasses:
+  - dashboard
 ---
 
 # <center>Vault Info</center>
@@ -45,13 +47,11 @@ banner: "![[872037.png]]"
 	- [[Viajes]]
 # <center>Ocio</center>
 - Juegos
-    - [[Juegos de mesa]]
+    - [[Boardgames]]
     - [[Videojuegos]]
-
 + Libros
-	+ [[Planes de lectura]]
+	+ [[Lectura]]
 	+ [[Librería]]
-
 + Recetas
 	+ [[Postres]]
 	+ [[Platos]]

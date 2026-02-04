@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2189c59a09e661dd",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "a881de3c2811a58a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Recursos/Fossil Register Manager.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Fossil Register Manager"
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Recursos/Fossil Register Manager.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -109,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Gráfico de Fossil Register Manager"
             }
           }
         ]
@@ -199,9 +205,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a876abedb1aff962",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Recursos/Home.md",
+    "Recursos/Fossil Register Manager.md",
+    "Ocio/Juegos/Boardgames.md",
+    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
+    "Ocio/Juegos/YuGiOh!/Yummy.md",
+    "Ocio/Juegos/YuGiOh!/Vanquish Soul.md",
+    "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
+    "Ocio/Libros/Lectura.md",
     "Universidad/SIPC/Sistemas de interacción.md",
     "Universidad/SIPC/Tema 1 (Introducción).md",
     "Universidad/SIPC/(SIPC) Tema 1.md",
@@ -220,13 +233,6 @@
     "Universidad/IA/IA - Introducción.md",
     "Universidad/IA/Búsquedas no informadas.md",
     "Universidad/GPI/Tema 6.md",
-    "Ocio/Libros/FALSOS DIOSES.md",
-    "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
-    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
-    "Ocio/Juegos/YuGiOh!/Swordsoul.md",
-    "Ocio/Juegos/YuGiOh!/Vanquish Soul.md",
-    "Ocio/Juegos/Juegos de mesa.md",
-    "Universidad/UA/Tema 2 -Accesibilidad.md",
     "Universidad/UA/Clase 2.1. Accesibilidad.pdf",
     "Universidad/UA/Clase 1.1. Diseño, desarrollo e implementación de sistemas, aplicaciones y servicios.pdf",
     "Universidad/UA",

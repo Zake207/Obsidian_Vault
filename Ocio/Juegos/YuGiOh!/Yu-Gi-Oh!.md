@@ -5,7 +5,7 @@
 + [[Blue-Eyes-Invoked]]
 + [[Branded]]
 + [[Mermail]]
-
+---
 + [[Fire Kings]]
 + [[Cyber-Style]]
 + [[Dragon Ruler]]
@@ -14,8 +14,8 @@
 + [[Red Dragon Archifiend]]
 + [[Memento]]
 + [[Swordsoul]]
-+ + [[Yummy]]
-
++ [[Yummy]]
+---
 + [[Vanquish Soul]]
 + [[Lunalight]]
 + [[Dracotail]]

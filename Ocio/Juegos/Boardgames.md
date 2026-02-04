@@ -5,7 +5,7 @@ banner: "![[fox-hyde-XgPf6yNdppI-unsplash.jpg]]"
 banner_y: 0.652
 ---
 
-# <center>Juegos de mesa</center>
+# <center>Boardgames</center>
 + Wargames
 	+ [[Warhammer 40.000]]
 	+ [[Age of Sigmar]]

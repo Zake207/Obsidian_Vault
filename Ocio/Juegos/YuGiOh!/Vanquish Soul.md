@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=yJrbdPUO5Gc
 
 *Stake your soul* es un buscador, se puede negar con ash, sobre todo cuando muestra un fuego u oscuridad que no es *vanquish soul*.
 
-A este deck *purulia* le afecta bastante dando muchos robos
+A este deck *purulia* le afecta bastante dando muchos robos, dado que invoca mucho desde mano
 
 *Vanquish Soul Start* es la carta de campo, protege de destrucciones por efectos y batalla, hay que destruirlo, una *ogre*
 
