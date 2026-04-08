@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - dashboard
-banner: "![[mathias-reding-y2XzZwgETw0-unsplash.jpg]]"
+banner: "![[1326363.png]]"
 banner_y: 0.182
 ---
 

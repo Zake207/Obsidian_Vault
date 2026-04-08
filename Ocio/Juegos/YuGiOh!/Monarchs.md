@@ -61,4 +61,7 @@
 + Añade morganita al invocarse
 + Con las tres morganitas en gy, las destierra y baja a 0 el ataque los monstruos rivales
 # Combos
+https://youtu.be/Ls3RjRVCRBk?si=OTTtwfc_uoFSxfWa
+https://youtu.be/ieJPyeQpFX4?si=UCHNUdWD9pv206ZX
+https://youtu.be/UsLReRlMEzY?si=24WERzVcU7szO_NP
 # Anotaciones

@@ -1,4 +1,8 @@
 [DECK PROFILE](https://duelingnexus.com/editor/c0e0c71ef941ed3672dde32d6b52deac)
+
+La estrategia del deck es hacer control sobre los recursos y jugadas del rival para debilitarlo y cortar sus lineas de combo. Como características principales tenemos que sigue una línea de juego bastante lineal, por lo que es sencillo de jugar pero también es sencillo de contrarestar. No tiene formas de reciclar los recursos del cementerio por lo que las partidas no se pueden alargar demasiado.
+
+Si se jugara con *primite* se lograría tener una mayor reutilización de los recuros y un mejor aprovechamiento del Extra Deck.
 # Cartas
 ## DECK
 ### Inicio
@@ -26,6 +30,7 @@
 	+ Normalmente a *Sage with Eyes of Blue*
 + Mezcla esta carta al deck, manda al cementerio un monstruo de efecto en campo: invoca un "Blue-Eyes" diferente del Gy
 #### Invokation
+#### Synchro Rumble
 #### Roar of the Blue-Eyed Dragons
 + Invocas especial un Blue-Eyes desde el deck, destierro o GY en posición de defensa (Blue-Eyes White Dragon si no controlas uno).
 	+ Un Normal para expandir
@@ -46,7 +51,7 @@
 + Otras cartas que controles no pueden ser destruidas por efectos
 + Cae especial del GY o mano si algo se destruye en campo
 + Si batalla puedes levantar a mano una carta del rival.
-	+ Al perder target esta tiene opción a repetir Damage-Step pero sin el efecto
+	+ Al ser al inicio de la Damage Step no podrá repetir ataque.
 ### Disrupción
 #### Majesty of the White Dragons
 + Muestra hasta 3 Blue-Eyes White Dragon en mano, campo o cementerio para destruir ese numero de cartas del rival
@@ -95,6 +100,57 @@
 #### Neo Kaiser Sea Horse
 #### Bingo Machine Go!!!
 #### Dragon's Mind
+#### Synchro Rumble
 # Combos
-# Puntos débiles
+> [!IDEA]
+> Todos son one card combo, se pueden ampliar con las demás cartas en mano
+## Full Combos
+### Combo #1
+**VIDEO -->** https://drive.google.com/file/d/1_NoL2OgwiEpeLOeuS44tSBpjiR1GStm_/view?usp=drive_link 
 
+Este combo trata de dejar la mejor mesa posible en turno uno con:
++ Negación de efectos de monstruos y destrucción + protección de primera destrucción
++ Omni-negación y destrucción
++ Protección al resto a todas las cartas y posibilidad de levantar a la mano
++ Protección a los blue-eyes desde cementerio (con la fusión)
++ En turno rival posibilidad de colocar *Majesty*
+
+Si se usa la *Sychro Rumble*
++ Negación a cementerio
+
+O si se reserva
++ Posibilidad de iniciar en turno 3
+
+Cabe destacar lo siguente:
++ Encadenar el efecto de la true light para proteger el efecto de añadir del Link-1
++ Trato de evitar las columnas de enlace y ocupo una para evitar invocaciones de enlace como *Relinquished ánima*
++ Siempre se puede hacer efecto rápido del sincro de 9, sacar al de 12 y como este no permite remover cartas del cementerio cartas como *called by the grave* no resuelve y se les niega el efecto.
+### Combo #2
+**VIDEO -->** https://drive.google.com/file/d/135yPwNa_hxN43_PYkbplObHPyxfh_aaJ/view?usp=drive_link
+
+El campo queda con 2 sincro de nivel 9 negadores del cementerio y con una omni-negación, en el turno rival, cuando mejor convenga (puede ser en la draw phase) hago los efectos rapidos necesarios para contar con las sincronías de nivel 12. Sin embargo esta misma jugada se puede usar para invocar otros monstruos que rompan campo como el *LightStorm*
+## Lineas alternativas
+### Contra nibiru
+**VIDEO -->** https://drive.google.com/file/d/12JuQkHff5_8sGEK0bpPBLVPELI9NOJbp/view?usp=drive_link
+
+En caso de no caer nibiru se podría expandir con las demás cartas de la mano, en caso contrario el mejor target del Link-2 es *Blue-Eyes Jet Dragon* para tenerlo en rotación
+
+### Alister full combo
+**VIDEO -->** https://drive.google.com/file/d/1LPZ-1WoMMhkeqgKy7ASfszFlToyBwESx/view?usp=drive_link
+
+Para este combo además de *Alister* es necesario tener otra carta del motor blue-eyes que empiece combo. Preferentemente *Maiden* y en caso de no tenerla buscaremos llevarla a GY o mano antes de invocar por tributo del Link-1. Si fuera sabio se puede hacer efecto de campo para hacer una extra normal con el link en campo.
+## Malas manos
+# Anotaciones
+## Jugadas
++ Puedes proteger el efecto de añadir del Link-1 encadenando la *true light* para colocar del deck
++ Al final del turno, si hay material en campo tratar de dejar un *Sello hierático de las esferas celestiales* para tener más disrupciones (*jet dragon* si esta con un Link-1 o un *blue-eyes* vainilla).
++ No tener miedo a dejar en GY a *Jet Dragon* es muy fácil hacer que vuelva.
++ Para tener extras de invocaciones se puede usar el efecto de *Master* en GY y además reciclarlo (un buen target puede ser *Maiden* para activar su efecto)
++ *Maiden* trae *True Light* por su efecto en la mano **o campo**.
+
+## Puntos débiles
+Negar el efecto de *Sage* para añadir (*Ash, Veiler, Impermanence*) y destruir si es posible (*Ghost Ogre*)
+
+Negar el efecto de añadir el campo del Link-1 de uno (con las misma cartas del punto anterior)
+
+Tratar de destruir *True Light* rompe el campo, pero hay que pasar por la protección de *Jet Dragon* y *Sifr*

@@ -8,5 +8,12 @@
   "showLineNumber": false,
   "newFileLocation": "current",
   "trashOption": "local",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

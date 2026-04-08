@@ -2,11 +2,12 @@
 banner: "![[872037.png]]"
 cssclasses:
   - dashboard
+banner_y: 0.5
 ---
 
 # <center>Vault Info</center>
 
-- 🗄️ Notas recientes `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+- 🗄️ Notas recientes `$=dv.list(dv.pages('!"Recursos" and !"Notas Diarias"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - 〽️ Stats
     - Ficheros: `$=dv.pages().length`
     - Personal recipes: `$=dv.pages('"Family/Recipes"').length`
@@ -45,6 +46,7 @@ cssclasses:
 	+ [[Programación]]
 - Personales
 	- [[Viajes]]
+	- [[Quotes]]
 # <center>Ocio</center>
 - Juegos
     - [[Boardgames]]

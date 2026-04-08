@@ -111,4 +111,13 @@
 + Tributa para levantar a la mano
 + Si es tributado invca un dragon desde mano o deck y convierte su ataque y defensa en 0.
 # Combos
+https://youtu.be/qFUiFr0eXKA?si=_8UDC4PQQOY695om
+https://youtube.com/shorts/4_ak5m7nH84?si=MZMJ57J6A4nT06x8
+https://youtu.be/vfuUouHGCA8?si=vwxpw1ZnsnWAUG1f
+https://youtu.be/7R0GFDgq7Cg?si=iWIsX3l2Huc69ohj
+
+https://youtu.be/737mQQlMTOg?si=yWSPzuNuoKsvvrHT
 # Anotaciones
+Como going first hay que intentar dejar plantada el candado para en el come back tratar de llegar a disaster
+
+En going second las opciones de romper al rival es tratar de llegar a disaster lo más rapido posible (a traves del efecto de eclipse por ejemplo) para desterrar o ir a por un otk con tenpai 

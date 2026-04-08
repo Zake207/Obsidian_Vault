@@ -1,0 +1,10 @@
+---
+title: Quedada Ale
+allDay: false
+startTime: 13:00
+endTime: 00:00
+date: 2026-04-03
+completed: null
+type: single
+endDate: 2026-04-04
+---

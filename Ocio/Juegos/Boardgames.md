@@ -9,6 +9,8 @@ banner_y: 0.652
 + Wargames
 	+ [[Warhammer 40.000]]
 	+ [[Age of Sigmar]]
+	+ [[D&D]]
 + TCG
 	+ [[Yu-Gi-Oh!]]
 + Minijuegos
+	+ [[Munchkin]]

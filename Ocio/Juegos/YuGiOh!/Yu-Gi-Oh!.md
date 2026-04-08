@@ -1,27 +1,38 @@
-## Ruling general
-[[Reglas de Juego]]
-
-## Decks
+# Decks
+*distribuir decks en meta, rogue o fun*
+## Main Decks
+[[Decks interesantes| Lista de deseos]]
+### Aprendidos
 + [[Blue-Eyes-Invoked]]
 + [[Branded]]
+### Aprender
 + [[Mermail]]
----
-+ [[Fire Kings]]
-+ [[Cyber-Style]]
-+ [[Dragon Ruler]]
-+ [[Purrely]]
-+ [[Monarchs]]
-+ [[Red Dragon Archifiend]]
-+ [[Memento]]
-+ [[Swordsoul]]
++ [[Mitsurugi]]
 + [[Yummy]]
----
++ [[Memento]]
++ [[Sky-Striker]]
+
 + [[Vanquish Soul]]
 + [[Lunalight]]
 + [[Dracotail]]
-+ [[Mitsurugi]]
 + [[GemKnight]]
+## Fun Decks
+### Aprendidos
++ [[Monarchs]]
++ [[Cyber-Style]]
++ [[Dragon Ruler]]
+### Aprender
++ [[Fire Kings]]
++ [[Purrely]]
++ [[Red Dragon Archifiend]]
++ [[Swordsoul]]
++ [[Ex-Saber]]
++ [[Mimighoul]]
++ [[Enneacraft]]
+
 + [[Ice Barrier]]
++ [[Synchrons]]
++ [[Black-Wings]]
 
 
 
