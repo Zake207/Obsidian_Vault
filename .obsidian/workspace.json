@@ -204,13 +204,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "homepage:Open homepage": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Universidad/IE/IE - Tema 2.md",
+    "Universidad/IE/Inteligencia Emocional.md",
     "Recursos/Home.md",
     "Recursos/Banners.md",
     "Ocio/Recetas/Postres.md",
@@ -220,7 +222,6 @@
     "Ocio/Libros/Librería.md",
     "Ocio/Libros/FALSOS DIOSES.md",
     "Proyectos/Fossil Register Manager.md",
-    "Universidad/IE/Inteligencia Emocional.md",
     "Recursos/Anexos/1326363.png",
     "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash.jpg",
     "Notas Diarias/2026-04-11 Torneo.md",
