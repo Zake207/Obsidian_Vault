@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recursos/Home.md",
+                "file": "Universidad/IE/IE - Tema 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,14 +117,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Home"
+              "title": "Gráfico de IE - Tema 2"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "44f3cdaf8d5fd277",
@@ -211,9 +212,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Universidad/IE/IE - Tema 2.md",
-    "Universidad/IE/Inteligencia Emocional.md",
+    "Universidad/IE/IE - Tema 3.md",
     "Recursos/Home.md",
+    "Universidad/IE/Inteligencia Emocional.md",
+    "Universidad/IE/IE - Tema 2.md",
     "Recursos/Banners.md",
     "Ocio/Recetas/Postres.md",
     "Recursos/Anexos/ulysse-pointcheval-1WmlAiYgnoI-unsplash 1.jpg",
@@ -241,7 +243,6 @@
     "Notas Diarias/2026-04-12 Despertarse.md",
     "Notas Diarias/(Every ) Despertarse.md",
     "Notas Diarias/2026-04-09 Despertarse.md",
-    "Notas Diarias/2026-04-08 Despertarse.md",
     "Notas Semanales",
     "Proyectos/Viajes",
     "Universidad/BBDD/Tema 1 - Introducción bases de datos.pdf",
