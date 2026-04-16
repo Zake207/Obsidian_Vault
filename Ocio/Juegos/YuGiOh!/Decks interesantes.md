@@ -1,6 +1,9 @@
 # Meta
 + Lunalight
 + Dracotail
++ Magnet warriors
++ Kewl Tune
++ Clown clan
 # Rogue
 + Gem-knight
 + Darklord
