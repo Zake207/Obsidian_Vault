@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4b5e1a7c5a7137ea",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "23c8a49952af51bc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/IE/IE - Tema 4.md",
+                "file": "Ocio/Juegos/YuGiOh!/Decks interesantes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IE - Tema 4"
+              "title": "Decks interesantes"
             }
           }
         ]
@@ -211,15 +211,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "23c8a49952af51bc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
+    "Ocio/Juegos/Boardgames.md",
+    "Recursos/Home.md",
+    "Universidad/IE/IE - Tema 4.md",
     "Universidad/IE/Anexos/Pasted image 20260416111449.png",
     "Universidad/IE/Anexos/Pasted image 20260416110422.png",
     "Universidad/IE/Anexos/Pasted image 20260416105825.png",
     "Universidad/IE/Anexos",
     "Universidad/IE/Inteligencia Emocional.md",
-    "Universidad/IE/IE - Tema 4.md",
-    "Recursos/Home.md",
     "Universidad/IE/IE - Tema 3.md",
     "Universidad/IE/Anexos/Pasted image 20260413145757.png",
     "Universidad/IE/Anexos/Pasted image 20260413131458.png",
@@ -245,14 +247,12 @@
     "Ocio/Juegos/YuGiOh!/Dracotail.md",
     "Ocio/Juegos/YuGiOh!/Decks interesantes.md",
     "Ocio/Juegos/YuGiOh!/Blue-Eyes-Invoked.md",
-    "Ocio/Juegos/Boardgames.md",
     "Notas Diarias/2026-04-11 Torneo.md",
     "Notas Diarias/2026-04-10 Trabajo.md",
     "Notas Diarias/2026-04-10 Torneo.md",
     "Notas Diarias/2026-04-10 Gym.md",
     "Notas Diarias/2026-04-10 Estudiar.md",
     "Universidad/IE",
-    "Universidad/TIO/Anexos/Pasted image 20250916121840.png",
     "Universidad/TIO/Tecnologia.pdf",
     "Universidad/TIO/Anexos",
     "Universidad/TIO",

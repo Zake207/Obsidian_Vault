@@ -1,6 +1,6 @@
 # Meta
 + Lunalight
-+ Dracotail branded (low cost)
++ Dracotail
 # Rogue
 + Gem-knight
 + Darklord
@@ -13,6 +13,8 @@
 + Mikanko
 + Traptrix
 + Shadoll
++ Ghoti
++ Ice Barrier
 # Cartas
 + Lo primite
 + Lo Fiendsmith
