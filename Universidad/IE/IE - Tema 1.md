@@ -1,5 +1,5 @@
 # ¿Qué es una emoción?
-Según Kleinginna en 1981 es un complejo conjunto de interacciones que subjetivas y objetivas mediadas por las hormonas y sistema neuronal que provocan:
+Según Kleinginna en 1981 es un complejo conjunto de interacciones subjetivas y objetivas mediadas por las hormonas y sistema neuronal que provocan:
 + Experiencias afectivas
 + Valoraciones y procesos de etiquetado
 + Modificaciones fisiológicas

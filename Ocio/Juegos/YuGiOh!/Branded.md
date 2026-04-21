@@ -127,11 +127,10 @@ El objetivo es dejar planteado un campo que en turno rival comenzará su cadena 
 ## Antifuwalos
 
 # Anotaciones
-El punto débil de la baraja es la magia de fusión, el rival preferirá usar sus recursos en frenar esta fusión lo antes posible como la ash. La filosofía es la siguiente: asegurar líneas alternativas en caso de que la fusión no funcione. Intentar baitear negaciones antes de tirar la fusión puede tener sentido hasta cierto punto, es importante no gastar toda la mano para que la línea acabe en una ash sobre nuestra branded y nuestra mano prácticamente vacía.
 
 Recomendable hacer los efectos de las magias de juego rápido en la draw o en la stanby phase para evitar *droll* o *veiler*.
 
-Hay que tratar de tener vision a futuro con el mazo y plantear el siguiente turno que se va jugar a la hora de gestionar los recursos del turno actual
+Hay que tratar de tener visión a futuro con el mazo y plantear el siguiente turno que se va jugar a la hora de gestionar los recursos del turno actual
 
 El uso que se le dé a fallen&virtuous es crucial ya que puede ser una interrupción en el turno del rival o una protección a los efectos de nuestros monstruos frente a cartas como dark ruler o droplets.
 
@@ -155,8 +154,22 @@ Para romper en el turno rival interesa
 + *Sanctifire* y *Proskenion* via *Granguignol* para robar monstruos del rival.
 
 Nunca olvidar el efecto de los *Bystial Saronir* para invocarse desterrando monstruos del rival, es una handtrap del arquetipo.
+
+
+El punto débil de la baraja es la magia de fusión, el rival preferirá usar sus recursos en frenar esta fusión lo antes posible como la ash. 
+
+La filosofía debe ser la siguiente: intentar asegurar recursos o cuerpos en campo antes de hacer la fusión sin vaciarnos la mano en el proceso.
++ hacer el efecto del albion en mano para robar
++ dejar recursos para interrumpir en el turno rival
++ jugar en la endphase con  high spirit si es necesario
+
+El planteamiento de cada partida es diferente y se adapta al deck y campo al que nos enfrentemos, eso es obvio, este mazo no cuenta con una linealidad tan visible como blue-eyes, puesto que tiene múltiples formas de alcanzar el mismo campo final.
 ## Contras
 ### Memento
+Lo importante es no dejar que haga su combo otk que puede ser tanto con combined creation y bone party o con el efecto de akihiron.
+
+romper su campo puede ser complejo pero no imposible, 
+
 Las recetas de este mazo tienen muchos breakers como *droplets* o *superpoly*, yendo primero contra este mazo es importante guardarse el mercourier para negar el *akihiron* rival.
 
 *Fallen and the virtuous* para destruir en battle y destruir *combined creation* o forzar efectos para destaggear. También puede usarse para proteger los efectos de cartas de tu campo de targets

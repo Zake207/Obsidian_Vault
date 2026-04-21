@@ -22,17 +22,24 @@
       }
     },
     {
-      "query": "path:Recursos",
+      "query": "path:Proyectos  ",
       "color": {
         "a": 1,
         "rgb": 16624477
       }
     },
     {
-      "query": "path:Universidad  ",
+      "query": "path:Recursos  ",
       "color": {
         "a": 1,
         "rgb": 16646005
+      }
+    },
+    {
+      "query": "path:Universidad  ",
+      "color": {
+        "a": 1,
+        "rgb": 7002472
       }
     }
   ],
@@ -47,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 198,
   "scale": 0.14524429815401485,
-  "close": false
+  "close": true
 }

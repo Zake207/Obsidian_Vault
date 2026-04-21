@@ -1,14 +1,17 @@
 # Meta
 + Lunalight
 + Dracotail
-+ Magnet warriors
 + Kewl Tune
 + Clown clan
 # Rogue
 + Gem-knight
++ Exorsister
 + Darklord
 + D/D/D
 + Hecahands - Chimera
++ Predaplant
++ P.U.N.K
++ Exodia
 # Fun
 + Darkworld
 + Ashened
@@ -18,7 +21,12 @@
 + Shadoll
 + Ghoti
 + Ice Barrier
++ Melffys
++ Burning abyss
 # Cartas
-+ Lo primite
++ Filia Regis
++ Sea monster of theseus
++ bystial dispater
+
 + Lo Fiendsmith
 + Shaman of tenyi + syncro de tenyi
