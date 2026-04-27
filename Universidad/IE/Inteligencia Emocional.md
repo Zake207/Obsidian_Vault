@@ -5,6 +5,11 @@
 [[IE - Tema 3]]
 [[IE - Tema 4]]
 [[IE - Tema 5]]
+[[IE - Tema 6]]
+**IE - Tema 7**
+[[1. HABILIDADES Y COMPETENCIAS PARA EMPLEO Y AUTOEMPLEO.pdf]]
+[[2. EMPRESA, CV, ENTREVISTA LABORAL.pdf]]
+[[3. SUGERENCIAS COMPORTAMIENTO EN ENTREVISTA LABORAL.pdf]]
 # Evaluación
 Normalmente serán 3 horas de clase (hasta las 12:30) 
 

@@ -118,6 +118,6 @@ https://youtu.be/7R0GFDgq7Cg?si=iWIsX3l2Huc69ohj
 
 https://youtu.be/737mQQlMTOg?si=yWSPzuNuoKsvvrHT
 # Anotaciones
-Como going first hay que intentar dejar plantada el candado para en el come back tratar de llegar a disaster
+Como going first hay que intentar dejar plantado el candado para en el come back tratar de llegar a disaster
 
 En going second las opciones de romper al rival es tratar de llegar a disaster lo más rapido posible (a traves del efecto de eclipse por ejemplo) para desterrar o ir a por un otk con tenpai 

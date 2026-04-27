@@ -10,6 +10,7 @@ cssclasses:
 - 〽️ Stats
     - Ficheros: `$=dv.pages().length`
     - Personal recipes: `$=dv.pages('"Family/Recipes"').length`
++ [[Historial]]
 # <center>Universidad</center>
 - 2º de carrera
 	- [[Redes]]
