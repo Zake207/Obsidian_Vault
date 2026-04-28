@@ -23,6 +23,8 @@
 + Ice Barrier
 + Melffys
 + Burning abyss
++ Amazoness
++ Dinosaur
 # Cartas
 + Filia Regis
 + Sea monster of theseus
