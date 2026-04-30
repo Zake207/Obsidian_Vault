@@ -14,3 +14,8 @@ Dentro de la herramienta podemos contar con las siguientes entidades: User (clie
 # Desarrollo
 ## 04/02/2026
 Hoy retomo el proyecto tras haberlo dejado a medias anteriormente. Antes de la época de exámenes dejé el proyecto tras finalizar las dos primeras fases de documentación que me servirán ahora para poder entender y recordar en qué consiste el proyecto. Comenzaré por la parte de backend, en concreto con el diseño del mismo. Me cuesta un poco entender conceptos porque estoy oxidado pero espero poder ponerme al día enseguida. Solo necesito de constancia y disciplina. Si todos los días invierto algo de tiempo puede que consiga acabar con este proyecto en este cuatrimestre.
+
+# Pendiente de reformular
+solo usar ts
+crear un usuario admin de la pagina web y un usuario cliente de ejemplo
+que sea como una wikipedia sobre pdfs, pensar si quiero enseñarlos en la propia pagina
