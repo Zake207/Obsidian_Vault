@@ -34,7 +34,7 @@
       {
         "id": "df1ee258fcd67654",
         "type": "tabs",
-        "dimension": 61.53846153846153,
+        "dimension": 50.142857142857146,
         "children": [
           {
             "id": "5667c977ae5d3c27",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"banner_y\"]",
+                "query": "[\"banner\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
       {
         "id": "5b7ea9a4ea4f7cfc",
         "type": "tabs",
-        "dimension": 38.46153846153847,
+        "dimension": 49.857142857142854,
         "children": [
           {
             "id": "dfb98938d932d53f",
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recursos/Home.md",
+                "file": "Universidad/IE/IE - Tema 4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +100,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
@@ -112,19 +112,20 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4043240003217149,
+                  "scale": 0.40432400032171484,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Home"
+              "title": "Gráfico de IE - Tema 4"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 307.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "44f3cdaf8d5fd277",
@@ -133,7 +134,6 @@
       {
         "id": "1d0df6be2cf7bb2f",
         "type": "tabs",
-        "dimension": 63.37325349301397,
         "children": [
           {
             "id": "49c771b89693a213",
@@ -141,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Recursos/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Home"
             }
           },
           {
@@ -179,7 +180,6 @@
       {
         "id": "60960a81e133b9d3",
         "type": "tabs",
-        "dimension": 36.62674650698603,
         "children": [
           {
             "id": "853395e51a1e5172",
@@ -195,70 +195,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "daily-notes:Abrir la nota de hoy": false,
-      "switcher:Abrir selector rápido": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "5667c977ae5d3c27",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Proyectos/Aprendizaje",
-    "Proyectos/Informáticos/Communitary Directory.md",
     "Recursos/Home.md",
-    "Proyectos/Informáticos",
-    "Proyectos/Informáticos/Fossil Register Manager.md",
-    "Proyectos/Informáticos/PDF-NLP (DocuBrain).md",
-    "Proyectos/Aprendizaje/Programación.md",
-    "Proyectos/Aprendizaje/IA.md",
-    "Ocio/Juegos/YuGiOh!/Decks interesantes.md",
-    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
-    "Ocio/Juegos/Boardgames.md",
+    "Universidad/IE/IE - Tema 6.md",
     "Universidad/IE/Inteligencia Emocional.md",
+    "Universidad/IE/IE - Tema 5.md",
     "Universidad/IE/IE - Tema 4.md",
     "Universidad/IE/IE - Tema 3.md",
+    "Universidad/IE/IE - Tema 2.md",
+    "Universidad/IE/IE - Tema 1.md",
+    "Universidad/LPP/Lenguajes y Paradigmas de la Programación.md",
+    "Proyectos/Quotes.md",
+    "Proyectos/Informáticos/PDF-NLP (DocuBrain).md",
+    "Proyectos/Informáticos/Communitary Directory.md",
+    "Proyectos/Informáticos/Fossil Register Manager.md",
+    "Proyectos/Informáticos",
+    "Proyectos/Aprendizaje/Programación.md",
+    "Proyectos/Aprendizaje/IA.md",
+    "Proyectos/Aprendizaje",
+    "Proyectos/Fossil Register Manager.md",
+    "Universidad/LPP/concurrente_examples.rb",
+    "Universidad/LPP/code_examples.rb",
     "Universidad/IE/3. SUGERENCIAS COMPORTAMIENTO EN ENTREVISTA LABORAL.pdf",
     "Universidad/IE/2. EMPRESA, CV, ENTREVISTA LABORAL.pdf",
     "Universidad/IE/1. HABILIDADES Y COMPETENCIAS PARA EMPLEO Y AUTOEMPLEO.pdf",
-    "Universidad/IE/IE - Tema 6.md",
-    "Ocio/Juegos/YuGiOh!/Dragon Ruler.md",
     "Recursos/Historial.md",
-    "Notas Diarias/2026-04-21 Rutina de noche.md",
-    "Notas Diarias/2026-04-20 Rutina de noche.md",
-    "Notas Diarias/2026-04-21 Rutina de mañana.md",
-    "Notas Diarias/2026-04-26 Trabajo.md",
-    "Notas Diarias/2026-04-25 Trabajo.md",
-    "Notas Diarias/2026-04-20 Gym.md",
-    "Notas Diarias/2026-04-20 Cartas.md",
-    "Notas Diarias/2026-04-20 Rutina de mañana.md",
-    "Notas Diarias/2026-04-20 Estudio.md",
-    "Notas Diarias/2026-04-24 Trabajo.md",
+    "Ocio/Juegos/YuGiOh!/Decks interesantes.md",
+    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
+    "Ocio/Juegos/Boardgames.md",
     "Universidad/IE/Anexos/Pasted image 20260416111449.png",
     "Universidad/IE/Anexos/Pasted image 20260416110422.png",
     "Universidad/IE/Anexos/Pasted image 20260416105825.png",
     "Universidad/IE/Anexos",
+    "Universidad/IE/Anexos/Pasted image 20260413145757.png",
+    "Universidad/IE/Anexos/Pasted image 20260413131458.png",
+    "Universidad/IE/Anexos/Pasted image 20260413122542.png",
+    "Universidad/IA/IA - Introducción.md",
+    "Universidad/IA/IA - Espacio de estados.md",
+    "Recursos/Quotes.md",
     "Recursos/Anexos/ulysse-pointcheval-1WmlAiYgnoI-unsplash 1.jpg",
     "Recursos/Anexos/lorenzo-herrera-p0j-mE6mGo4-unsplash 1.jpg",
     "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash 1.jpg",
     "Recursos/Anexos/1326363.png",
-    "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash.jpg",
-    "Notas Semanales",
+    "Proyectos/Viajes/Viajes.md",
+    "Proyectos/Viajes/Budapest (20-26 Enero 2026).md",
     "Proyectos/Viajes",
-    "Universidad/BBDD/Tema 1 - Introducción bases de datos.pdf",
-    "Universidad/UA/Clase 2.1. Accesibilidad.pdf",
-    "Universidad/UA/Clase 1.1. Diseño, desarrollo e implementación de sistemas, aplicaciones y servicios.pdf",
-    "Universidad/TIO/Anexos/Pasted image 20250916121808.png",
-    "Universidad/TIO/Anexos/Pasted image 20250916121840.png",
+    "Proyectos",
+    "Ocio/Libros/Lectura.md",
     "Universidad/CDyAL/Mapa Conceptual. Tema 4.canvas",
     "Universidad/Admin/grafo.canvas"
   ]
