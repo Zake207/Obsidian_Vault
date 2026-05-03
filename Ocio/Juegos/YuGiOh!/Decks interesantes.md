@@ -1,7 +1,5 @@
 # Meta
 + Lunalight
-+ Dracotail
-+ Kewl Tune
 + Clown clan
 # Rogue
 + Gem-knight
@@ -23,12 +21,7 @@
 + Ice Barrier
 + Melffys
 + Burning abyss
-+ Amazoness
 + Dinosaur
 # Cartas
-+ Filia Regis
-+ Sea monster of theseus
-+ bystial dispater
-
 + Lo Fiendsmith
 + Shaman of tenyi + syncro de tenyi

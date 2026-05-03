@@ -13,3 +13,5 @@ cssclasses:
 	+ [[Yu-Gi-Oh!]]
 + Minijuegos
 	+ [[Munchkin]]
+	+ [[Phylosophia: Floating World]]
+	+ [[Wingspam]]
