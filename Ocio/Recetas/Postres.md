@@ -1,9 +1,9 @@
 ---
+banner: "![[ulysse-pointcheval-1WmlAiYgnoI-unsplash.jpg]]"
 cssclasses:
   - dashboard
-banner: "![[ulysse-pointcheval-1WmlAiYgnoI-unsplash.jpg]]"
-banner_y: 0.53399
 ---
+
 # <center>Postres</center>
 + Recetas
 	+ [[Tarta de requesón con arándanos]]

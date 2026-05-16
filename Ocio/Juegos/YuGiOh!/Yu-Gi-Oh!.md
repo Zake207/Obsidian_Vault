@@ -5,9 +5,9 @@
 ### Aprendidos
 + [[Blue-Eyes-Invoked]]
 + [[Branded]]
++ [[Mitsurugi]]
 ### Aprender
 + [[Mermail]]
-+ [[Mitsurugi]]
 + [[Yummy]]
 + [[Memento]]
 + [[Sky-Striker]]
