@@ -1,3 +1,4 @@
+[[IE - Tema 1| < Anterior tema (Tema 1)]] / [[IE - Tema 3|Siguiente tema (Tema 3) >]]
 # Concepto de la inteligencia
 
 Concepto difícil de medir y definir. El enfoque de la psicología diferencial es el que más se aproxima a la inteligencia humana. Se puede definir como una sola aptitud o como múltiples aptitudes.
@@ -79,3 +80,5 @@ Por otro lado *Robert Sternbeg* define la Teoría Triárquica de la Inteligencia
 **Visualización espacial** Rotación en dos y tres dimensiones.
 
 **Razonamiento Inductivo** Compilación de habilidades como razonamiento general (capacidad de sacar reglas generales de series), compresión verbal (sacar analogías verbales)
+
+[[IE - Tema 1| < Anterior tema (Tema 1)]] / [[IE - Tema 3|Siguiente tema (Tema 3) >]]

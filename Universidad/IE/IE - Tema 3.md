@@ -1,3 +1,5 @@
+[[IE - Tema 2| < Anterior tema (Tema 2)]] / [[IE - Tema 4|Siguiente tema (Tema 4) >]]
+
 # Emoción
 Algunos antecedentes son:
 + Thorndike (1927) describe la inteligencia social como la capacidad de entender las relaciones.
@@ -163,3 +165,6 @@ La autoestima es la valoración emocional de uno mismo, demostrando el valor que
 La baja autoestima provoca un dialogo interno distorsionado que afecta a como pensamos, actuamos y pensamos. No se considera autoestima la basada únicamente en logros.
 
 Los refuerzos del entorno influyen en nuestra autoestima, hay que evitar todo lo destructivo, reforzar los lazos estrechos y reforzarte a ti mismo (sé generoso con los halagos)
+
+
+[[IE - Tema 2| < Anterior tema (Tema 2)]] / [[IE - Tema 4|Siguiente tema (Tema 4) >]]

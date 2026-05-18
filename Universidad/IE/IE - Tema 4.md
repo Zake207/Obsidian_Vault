@@ -1,3 +1,4 @@
+[[IE - Tema 3| < Anterior tema (Tema 3)]] / [[IE - Tema 5|Siguiente tema (Tema 5) >]]
 # Comunicación social
 El objetivo de una comunicación eficaz es hacer común un mismo mensaje entre emisor y receptor. Es el proceso por el cual dos o más personas se relacionan para comprenderse por medio de un canal de comunicación
 ![[Pasted image 20260416105825.png|550]]
@@ -78,6 +79,4 @@ Evitar muletillas y expresiones.
 Para cerrar el discurso es recomendable recapitular, contar una anécdota, cita o pregunta al público y agradecer con una sonrisa.
 
 
-
-
-
+[[IE - Tema 3| < Anterior tema (Tema 3)]] / [[IE - Tema 5|Siguiente tema (Tema 5) >]]

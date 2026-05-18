@@ -2,6 +2,7 @@
 banner: "![[872037.png]]"
 cssclasses:
   - dashboard
+banner_y: 0.5
 ---
 
 # <center>Vault Info</center>

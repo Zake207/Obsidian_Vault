@@ -19,3 +19,6 @@ Concepto con múltiples matices y definiciones, algunas de ellas son:
 + *“Conjunto de capacidades distintas que actúan independientemente a demanda de las exigencias”* Gardner
 + *“Velocidad de procesamiento de la información y capacidad de retener información activa en la memoria inmediata”* Jensen.
 + *“Un tipo de autogobierno o autogestión mental superior”* Sternberg.
+
+
+[[IE - Tema 2|Siguiente tema (Tema 2)>]]

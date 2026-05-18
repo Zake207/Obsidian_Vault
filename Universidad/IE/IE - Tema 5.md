@@ -1,3 +1,4 @@
+[[IE - Tema 4| < Anterior tema (Tema 4)]] / [[IE - Tema 6|Siguiente tema (Tema 6) >]]
 # Pensamiento Positivo y Empatía
 ## Concepto y Tipos de Bienestar Personal
 El **bienestar** se define como el conjunto de factores personales que permiten al individuo sentirse feliz, satisfecho y con una sensación de plenitud en su vida. La Psicología Positiva divide su estudio en dos tradiciones:
@@ -101,3 +102,5 @@ Sensación de estar totalmente absorto en una actividad placentera. Requiere:
 - **Racionalizar:** Analizar los problemas de forma productiva, evitando el desgaste inútil antes de tiempo.
     
 - **Diario del "Mejor Yo Posible":** Ejercicio de escritura (20-30 min) donde se visualiza y proyecta un futuro donde se han alcanzado los objetivos personales.
+
+[[IE - Tema 4| < Anterior tema (Tema 4)]] / [[IE - Tema 6|Siguiente tema (Tema 6) >]]
