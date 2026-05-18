@@ -1,0 +1,3 @@
+# Objetos
+# Objetos malditos
+# Fantasmas

@@ -1,3 +1,4 @@
+[[IE - Tema 2|Siguiente tema (Tema 2)>]]
 # ¿Qué es una emoción?
 Según Kleinginna en 1981 es un complejo conjunto de interacciones subjetivas y objetivas mediadas por las hormonas y sistema neuronal que provocan:
 + Experiencias afectivas
