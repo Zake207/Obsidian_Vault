@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,9 +214,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Ocio/Juegos/Videojuegos.md",
+    "Recursos/Home.md",
     "Universidad/LPP/ut_examen.rb",
     "Universidad/LPP/poo_examen.rb",
-    "Recursos/Home.md",
     "Ocio/Recetas/Postres.md",
     "Ocio/Recetas/Crema de limón.md",
     "Ocio/Recetas/Tarta de requesón con arándanos.md",
@@ -257,7 +258,6 @@
     "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash 1.jpg",
     "Recursos/Anexos/1326363.png",
     "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash.jpg",
-    "Notas Semanales",
     "Universidad/TIO/Anexos/Pasted image 20250916121808.png",
     "Universidad/TIO/Anexos/Pasted image 20250916121840.png",
     "Universidad/CDyAL/Mapa Conceptual. Tema 4.canvas",

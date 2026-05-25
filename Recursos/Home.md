@@ -1,11 +1,10 @@
 ---
 banner: "![[872037.png]]"
----
----
-banner: "![[872037.png]]"
+banner_y: 0.5
 cssclasses:
   - dashboard
-banner_y: 0.5
+---
+
 ---
 
 # <center>Vault Info</center>
