@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "591f62f979114379",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1f8b2f37fedcfa",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ocio/Juegos/Phasmophobia.md",
-                "mode": "source",
+                "file": "Recursos/Home.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Phasmophobia"
+              "title": "Home"
             }
           }
         ]
@@ -34,7 +34,7 @@
       {
         "id": "df1ee258fcd67654",
         "type": "tabs",
-        "dimension": 50.142857142857146,
+        "dimension": 61.53846153846153,
         "children": [
           {
             "id": "5667c977ae5d3c27",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"banner\"]",
+                "query": "[\"banner_y\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
       {
         "id": "5b7ea9a4ea4f7cfc",
         "type": "tabs",
-        "dimension": 49.857142857142854,
+        "dimension": 38.46153846153847,
         "children": [
           {
             "id": "dfb98938d932d53f",
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Universidad/IE/IE - Tema 4.md",
+                "file": "Recursos/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +100,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
@@ -112,19 +112,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.40432400032171484,
+                  "scale": 0.4043240003217149,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de IE - Tema 4"
+              "title": "Gráfico de Home"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945,
+    "width": 323.5,
     "collapsed": true
   },
   "right": {
@@ -134,6 +134,7 @@
       {
         "id": "1d0df6be2cf7bb2f",
         "type": "tabs",
+        "dimension": 63.37325349301397,
         "children": [
           {
             "id": "49c771b89693a213",
@@ -141,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursos/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Home"
+              "title": "Esquema"
             }
           },
           {
@@ -180,6 +180,7 @@
       {
         "id": "60960a81e133b9d3",
         "type": "tabs",
+        "dimension": 36.62674650698603,
         "children": [
           {
             "id": "853395e51a1e5172",
@@ -195,70 +196,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "daily-notes:Abrir la nota de hoy": false,
+      "switcher:Abrir selector rápido": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "8b1f8b2f37fedcfa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Ocio/Juegos/Videojuegos.md",
-    "Ocio/Juegos/Phasmophobia.md",
+    "Ocio/Recetas/Postres.md",
+    "Ocio/Recetas/Crema de limón.md",
     "Recursos/Home.md",
-    "Universidad/IE/IE - Tema 6.md",
-    "Universidad/IE/IE - Tema 5.md",
-    "Universidad/IE/IE - Tema 4.md",
-    "Universidad/IE/IE - Tema 3.md",
-    "Universidad/IE/IE - Tema 2.md",
-    "Universidad/IE/IE - Tema 1.md",
-    "Universidad/IE/Inteligencia Emocional.md",
-    "Ocio/Recetas/Mousse de tres chocolates.md",
+    "Ocio/Recetas/Tarta de requesón con arándanos.md",
+    "Ocio/Recetas/Red Velvet.md",
+    "Ocio/Juegos/Phasmophobia.md",
     "Ocio/Juegos/YuGiOh!/Mitsurugi.md",
-    "Universidad/LPP/Lenguajes y Paradigmas de la Programación.md",
-    "Proyectos/Quotes.md",
-    "Proyectos/Informáticos/PDF-NLP (DocuBrain).md",
-    "Proyectos/Informáticos/Communitary Directory.md",
-    "Proyectos/Informáticos/Fossil Register Manager.md",
-    "Proyectos/Informáticos",
-    "Proyectos/Aprendizaje/Programación.md",
+    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
+    "Ocio/Juegos/Boardgames.md",
+    "Universidad/IE/Inteligencia Emocional.md",
+    "Universidad/IE/IE - Tema 1.md",
+    "Universidad/IE/IE - Tema 2.md",
+    "Universidad/IE/IE - Tema 3.md",
+    "Universidad/IE/IE - Tema 4.md",
+    "Universidad/IE/IE - Tema 5.md",
+    "Universidad/IE/IE - Tema 6.md",
+    "Ocio/Recetas/Mousse de tres chocolates.md",
+    "Ocio/Juegos/YuGiOh!/Decks interesantes.md",
+    "Ocio/Juegos/YuGiOh!/D&D.md",
     "Proyectos/Aprendizaje/IA.md",
-    "Proyectos/Aprendizaje",
-    "Proyectos/Fossil Register Manager.md",
+    "Proyectos/Informáticos/PDF-NLP (DocuBrain).md",
+    "Proyectos/Aprendizaje/Programación.md",
+    "Recursos/Historial.md",
+    "Universidad/LPP/funcional_examen.rb",
     "Universidad/LPP/concurrente_examples.rb",
-    "Universidad/LPP/code_examples.rb",
+    "Proyectos/Aprendizaje",
+    "Proyectos/Informáticos/Communitary Directory.md",
+    "Proyectos/Informáticos",
+    "Proyectos/Informáticos/Fossil Register Manager.md",
     "Universidad/IE/3. SUGERENCIAS COMPORTAMIENTO EN ENTREVISTA LABORAL.pdf",
     "Universidad/IE/2. EMPRESA, CV, ENTREVISTA LABORAL.pdf",
     "Universidad/IE/1. HABILIDADES Y COMPETENCIAS PARA EMPLEO Y AUTOEMPLEO.pdf",
-    "Recursos/Historial.md",
-    "Ocio/Juegos/YuGiOh!/Decks interesantes.md",
-    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
-    "Ocio/Juegos/Boardgames.md",
+    "Ocio/Juegos/YuGiOh!/Dragon Ruler.md",
     "Universidad/IE/Anexos/Pasted image 20260416111449.png",
     "Universidad/IE/Anexos/Pasted image 20260416110422.png",
     "Universidad/IE/Anexos/Pasted image 20260416105825.png",
     "Universidad/IE/Anexos",
-    "Universidad/IE/Anexos/Pasted image 20260413145757.png",
-    "Universidad/IE/Anexos/Pasted image 20260413131458.png",
-    "Universidad/IE/Anexos/Pasted image 20260413122542.png",
-    "Universidad/IA/IA - Introducción.md",
-    "Universidad/IA/IA - Espacio de estados.md",
     "Recursos/Anexos/ulysse-pointcheval-1WmlAiYgnoI-unsplash 1.jpg",
     "Recursos/Anexos/lorenzo-herrera-p0j-mE6mGo4-unsplash 1.jpg",
     "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash 1.jpg",
     "Recursos/Anexos/1326363.png",
+    "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash.jpg",
+    "Notas Semanales",
     "Proyectos/Viajes",
-    "Proyectos",
+    "Universidad/TIO/Anexos/Pasted image 20250916121808.png",
+    "Universidad/TIO/Anexos/Pasted image 20250916121840.png",
     "Universidad/CDyAL/Mapa Conceptual. Tema 4.canvas",
     "Universidad/Admin/grafo.canvas"
   ]
