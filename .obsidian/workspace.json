@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/Home.md",
-                "mode": "preview",
+                "file": "Ocio/Juegos/YuGiOh!/Clown Crew.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Clown Crew"
             }
           }
         ]
@@ -214,18 +214,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Ocio/Juegos/Videojuegos.md",
+    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
+    "Ocio/Juegos/YuGiOh!/Clown Crew.md",
+    "Ocio/Juegos/Boardgames.md",
     "Recursos/Home.md",
+    "Ocio/Juegos/Phasmophobia.md",
+    "Ocio/Juegos/Videojuegos.md",
     "Universidad/LPP/ut_examen.rb",
     "Universidad/LPP/poo_examen.rb",
     "Ocio/Recetas/Postres.md",
     "Ocio/Recetas/Crema de limón.md",
     "Ocio/Recetas/Tarta de requesón con arándanos.md",
     "Ocio/Recetas/Red Velvet.md",
-    "Ocio/Juegos/Phasmophobia.md",
     "Ocio/Juegos/YuGiOh!/Mitsurugi.md",
-    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
-    "Ocio/Juegos/Boardgames.md",
     "Universidad/IE/Inteligencia Emocional.md",
     "Universidad/IE/IE - Tema 1.md",
     "Universidad/IE/IE - Tema 2.md",
@@ -245,7 +246,6 @@
     "Proyectos/Aprendizaje",
     "Proyectos/Informáticos/Communitary Directory.md",
     "Proyectos/Informáticos",
-    "Proyectos/Informáticos/Fossil Register Manager.md",
     "Universidad/IE/3. SUGERENCIAS COMPORTAMIENTO EN ENTREVISTA LABORAL.pdf",
     "Universidad/IE/2. EMPRESA, CV, ENTREVISTA LABORAL.pdf",
     "Universidad/IE/1. HABILIDADES Y COMPETENCIAS PARA EMPLEO Y AUTOEMPLEO.pdf",

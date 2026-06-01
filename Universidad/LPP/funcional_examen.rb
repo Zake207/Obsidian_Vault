@@ -2,7 +2,7 @@ example_vector = [1, 2, 3, 4, 5, 6, 7, 3, 4, 5, 8, 9, 10, 0, -1, -2]
 
 # OPERACIONES
 cuadrados = example_vector.map { |n| n*n }
-pares = example_vector.select { |n| n//2 == 1}
+pares = example_vector.select { |n| n//2 == 0}
 impares = example_vector.reject { |n| n//2 == 1}
 cero = example_vector.find { |n| n == 0}
 sumatorio = example_vector.reduce(:+) # Para juntar todos los elementos, sumando en este caso
@@ -18,7 +18,7 @@ pares_impares = example_vector.group_by? { |n| n//2 == 0 }
 suma_pares_menores_a_diez_al_cuadrado = example_vector
     .select { |n| n//2 == 0}
     .reject { |n| n>=10 }
-    .map {|n| n**2}
+    .map { |n| n**2}
     .reduce(:+)
 
     

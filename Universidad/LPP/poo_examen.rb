@@ -14,6 +14,17 @@ class Rectangulo
         @size_x * 2 + size_y * 2
     end
 
+    def privado
+        "Metodo privado"
+    end
+
+    def protegido
+        "Metodo protegido"
+    end
+
+    private :privado
+    protected :protegido
+
 end
 
 class Caja < Rectangulo

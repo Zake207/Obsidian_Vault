@@ -6,6 +6,8 @@
 + [[Blue-Eyes-Invoked]]
 + [[Branded]]
 + [[Mitsurugi]]
++ [[Clown Crew]]
++ + [[Enneacraft]]
 ### Aprender
 + [[Mermail]]
 + [[Yummy]]
@@ -28,7 +30,7 @@
 + [[Swordsoul]]
 + [[Ex-Saber]]
 + [[Mimighoul]]
-+ [[Enneacraft]]
+
 
 + [[Ice Barrier]]
 + [[Synchrons]]

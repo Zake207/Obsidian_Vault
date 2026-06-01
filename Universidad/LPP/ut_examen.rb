@@ -19,4 +19,5 @@ class PruebaEjemplo < Test::Unit::TestCase
         assert_equal(@rectangulo_1.class, Rectangulo)
         assert_equal(@rectangulo_2.class, Rectangulo)
 
-        assert_
+        assert_equal(@rectangulo_1.class, Object)
+        assert_equal(@rectangulo_2.class, Object)
