@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/Home.md",
-                "mode": "preview",
+                "file": "Ocio/Juegos/YuGiOh!/Clown Crew.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Clown Crew"
             }
           }
         ]
@@ -207,17 +207,25 @@
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "homepage:Open homepage": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a876abedb1aff962",
   "lastOpenFiles": [
-    "Recursos/Home.md",
-    "Ocio/Juegos/YuGiOh!/Clown Crew.md",
+    "Universidad/LPP/Código/EXAMPLE_1.rb",
+    "Universidad/LPP/Código/CODE_funcional_examen.rb",
+    "Universidad/LPP/Código/CODE_ttd_examen.rb",
+    "Universidad/LPP/Código/CODE_ut_examen.rb",
+    "Universidad/LPP/Código/CODE_poo_examen.rb",
+    "Universidad/LPP/Código/CODE_dsl_examen.rb",
+    "Universidad/LPP/Código/CODE_concurrente_examples.rb",
+    "Universidad/LPP/Código",
     "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
+    "Ocio/Juegos/YuGiOh!/Clown Crew.md",
     "Ocio/Juegos/Boardgames.md",
+    "Recursos/Home.md",
     "Ocio/Juegos/Phasmophobia.md",
     "Ocio/Juegos/Videojuegos.md",
     "Universidad/LPP/ut_examen.rb",
@@ -242,17 +250,9 @@
     "Proyectos/Aprendizaje/Programación.md",
     "Recursos/Historial.md",
     "Universidad/LPP/funcional_examen.rb",
-    "Universidad/LPP/concurrente_examples.rb",
-    "Proyectos/Aprendizaje",
-    "Proyectos/Informáticos/Communitary Directory.md",
-    "Proyectos/Informáticos",
-    "Universidad/IE/3. SUGERENCIAS COMPORTAMIENTO EN ENTREVISTA LABORAL.pdf",
-    "Universidad/IE/2. EMPRESA, CV, ENTREVISTA LABORAL.pdf",
-    "Universidad/IE/1. HABILIDADES Y COMPETENCIAS PARA EMPLEO Y AUTOEMPLEO.pdf",
     "Universidad/IE/Anexos/Pasted image 20260416111449.png",
     "Universidad/IE/Anexos/Pasted image 20260416110422.png",
     "Universidad/IE/Anexos/Pasted image 20260416105825.png",
-    "Universidad/IE/Anexos",
     "Recursos/Anexos/ulysse-pointcheval-1WmlAiYgnoI-unsplash 1.jpg",
     "Recursos/Anexos/lorenzo-herrera-p0j-mE6mGo4-unsplash 1.jpg",
     "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash 1.jpg",
