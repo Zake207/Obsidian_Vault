@@ -24,18 +24,18 @@ another_example.join
 # Thread.exit                       Sale del hilo, hecho en main mata todos los hilos pues se sale del principal
 
 ## Para solventar condiciones de carrera
-result = 0
-mutex = Mutex.new
+$result = 0
+$mutex = Mutex.new
 
 def function_1()
-    mutex.lock
-    result += 1
-    mutex.unlock
+    $mutex.lock
+    $result += 1
+    $mutex.unlock
 end
 
 def function_2()
-    mutex.synchronize do
-        result = 0
+    $mutex.synchronize do
+        $result = 0
     end
 end
 

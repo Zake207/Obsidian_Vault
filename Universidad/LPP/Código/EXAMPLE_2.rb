@@ -1,4 +1,6 @@
 class Quirofano
+    attr_accessor :id, :nombre, :tipo, :personal
+
     def initialize(id, nombre, tipo, &block)
         @id = id
         @nombre = nombre
@@ -29,3 +31,21 @@ class Quirofano
         output
     end
 end
+
+### PRUEBAS ###
+
+quirofano_0 = Quirofano.new(0, "Prototipo", "Prueba") do 
+    personal "Fadi<3", :estado "cafe"
+    personal "Ale", :estado "moto"
+    personal "Yoel", :estado "carta"
+end
+
+assert_equal quirofano_0.is_a?(Quirofano) true
+...
+
+assert_equal quirofano_0.instance_of?(Quirofano) true
+...
+
+assert_equal quirofano_0.id 0
+...
+

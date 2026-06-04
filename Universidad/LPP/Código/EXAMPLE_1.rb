@@ -19,7 +19,7 @@ class Medico
     end
 
     def <=>(other)
-        @id <=> id
+        @id <=> other.id
     end
 end
 
@@ -43,3 +43,27 @@ class TestMedico < Test::Unit::TestCase
 
     def PruebasAtributos
         assert_kind_of(Integer, @medico_1.id) 
+    end
+end
+
+##############################################
+#                 FUNCIONAL                  #
+##############################################
+
+# Dada una lista ficticia de 4 instancias de la clase Medico:
+
+def maximo_medico(medicos)
+    resultado = medicos.map { |medico| medico.id}
+                       .max
+end
+
+# Medico de tarde con el menor id
+def minimo_tarde(medicos)
+    resultado = medicos.select { |m| m.turno == "tarde"}
+                       .map { |m| m.id}
+                       .min
+end
+
+# APUNTE: No hace falta hacer el map porque al haber definido el <=> ruby lo usa para comparar entre
+# los diferentes medicos que existen en la lista.
+
