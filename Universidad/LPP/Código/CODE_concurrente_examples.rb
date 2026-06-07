@@ -27,6 +27,7 @@ another_example.join
 $result = 0
 $mutex = Mutex.new
 
+
 def function_1()
     $mutex.lock
     $result += 1
@@ -35,7 +36,7 @@ end
 
 def function_2()
     $mutex.synchronize do
-        $result = 0
+        $result += 1
     end
 end
 
