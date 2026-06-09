@@ -98,11 +98,11 @@ class DslInsecto
         @partes = []
         
         if block_given?
-            yield self
-        else
             if block.arity == 1
-                instace_eval(&block)
+                yield self
             end
+        else
+            instace_eval(&block)
         end
     end
 
@@ -114,7 +114,7 @@ class DslInsecto
 end
 
 ejemplo = DslInsecto.new ("Araña de Embudo", "Aracnido") do
-    partes "patas", :cantidad 8
-    partes "colmillos", :cantidad 2
-    partes "ojos", :cantidad 10
+    partes "patas", :cantidad => 8
+    partes "colmillos", :cantidad => 2
+    partes "ojos", :cantidad => 10
 end

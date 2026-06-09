@@ -3,14 +3,14 @@ cssclasses:
   - dashboard
 ---
 
+# <center>Mecanicas principales</center>
++ [[Sanidad]]
++ [[Eventos]]
++ [[Cacerias]]
 # <center>Objetos</center>
-## Principales
-## Secundarios
+
+## <center>Principales</center>
+## <center>Secundarios</center>
 # <center>Posesiones malditas</center>
-## Ouija
-## Cartas del Tarot
-## Espejo maldito
-## Mano de mono
-## Muñeco Vudú
-## Caja de música
+
 # <center>Fantasmas</center>

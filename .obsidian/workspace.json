@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/Home.md",
+                "file": "Ocio/Juegos/Phasmophobia.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Phasmophobia"
             }
           }
         ]
@@ -134,7 +134,7 @@
       {
         "id": "1d0df6be2cf7bb2f",
         "type": "tabs",
-        "dimension": 63.37325349301397,
+        "dimension": 44.01076716016151,
         "children": [
           {
             "id": "49c771b89693a213",
@@ -180,7 +180,7 @@
       {
         "id": "60960a81e133b9d3",
         "type": "tabs",
-        "dimension": 36.62674650698603,
+        "dimension": 55.989232839838486,
         "children": [
           {
             "id": "853395e51a1e5172",
@@ -214,13 +214,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Ocio/Juegos/Cacerias.md",
+    "Ocio/Juegos/Phasmophobia.md",
+    "Ocio/Juegos/Videojuegos.md",
     "Recursos/Home.md",
+    "Universidad/LPP/Código/EXAMPLE_6.rb",
+    "Universidad/LPP/Código/EXAMPLE_5.rb",
     "Universidad/LPP/Código/EXAMPLE_3.rb",
     "Ocio/Juegos/YuGiOh!/Clown Crew.md",
     "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
     "Ocio/Juegos/Boardgames.md",
-    "Ocio/Juegos/Phasmophobia.md",
-    "Ocio/Juegos/Videojuegos.md",
     "Universidad/LPP/ut_examen.rb",
     "Universidad/LPP/poo_examen.rb",
     "Ocio/Recetas/Postres.md",
@@ -247,8 +250,6 @@
     "Proyectos/Aprendizaje",
     "Proyectos/Informáticos",
     "Universidad/IE/3. SUGERENCIAS COMPORTAMIENTO EN ENTREVISTA LABORAL.pdf",
-    "Universidad/IE/2. EMPRESA, CV, ENTREVISTA LABORAL.pdf",
-    "Universidad/IE/1. HABILIDADES Y COMPETENCIAS PARA EMPLEO Y AUTOEMPLEO.pdf",
     "Universidad/IE/Anexos/Pasted image 20260416111449.png",
     "Universidad/IE/Anexos/Pasted image 20260416110422.png",
     "Universidad/IE/Anexos/Pasted image 20260416105825.png",
