@@ -60,13 +60,15 @@ def sale_de_escena(payaso)
     $escenario.delete(payaso)
 end
 
-h_biancaviso = Thread.new do
+h_biancaviso = Thread.new do  # La función de Flare es exactamente igual
     n.times do |i|
         mutex.synchronize do
             while !$escenario.empty?
-                cv_biancaviso.wait(mutex)
+                cv_biancaviso.wait($mutex)
             end
             entra_en_escena("biancaviso")
+            sleep(3)
+            sale_de_escena("biancaviso")
             cv_flare.signal
         end
     end

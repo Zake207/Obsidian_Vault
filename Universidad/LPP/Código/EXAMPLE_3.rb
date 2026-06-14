@@ -39,7 +39,7 @@ def funcionalidad(empleados)
                         .min
 end
 
-# Contrate de empleados de tarde con los de mañana
+# Contraste de empleados de tarde con los de mañana
 
 include 'thread'
 

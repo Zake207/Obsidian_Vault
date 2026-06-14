@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ocio/Juegos/Phasmophobia.md",
-                "mode": "preview",
+                "file": "Ocio/Juegos/Sanidad.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Phasmophobia"
+              "title": "Sanidad"
             }
           }
         ]
@@ -214,8 +214,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Ocio/Juegos/Cacerias.md",
     "Ocio/Juegos/Phasmophobia.md",
+    "Ocio/Juegos/Sanidad.md",
+    "Ocio/Juegos/Cacerias.md",
+    "Universidad/LPP/Código/EXAMPLE_8.rb",
+    "Universidad/LPP/Código/EXAMPLE_7.rb",
+    "Ocio/Juegos/Anexos/Pasted image 20260612114337.png",
     "Ocio/Juegos/Videojuegos.md",
     "Recursos/Home.md",
     "Universidad/LPP/Código/EXAMPLE_6.rb",
@@ -244,12 +248,9 @@
     "Proyectos/Aprendizaje/IA.md",
     "Proyectos/Informáticos/PDF-NLP (DocuBrain).md",
     "Proyectos/Aprendizaje/Programación.md",
-    "Recursos/Historial.md",
     "Universidad/LPP/funcional_examen.rb",
     "Universidad/LPP/concurrente_examples.rb",
     "Proyectos/Aprendizaje",
-    "Proyectos/Informáticos",
-    "Universidad/IE/3. SUGERENCIAS COMPORTAMIENTO EN ENTREVISTA LABORAL.pdf",
     "Universidad/IE/Anexos/Pasted image 20260416111449.png",
     "Universidad/IE/Anexos/Pasted image 20260416110422.png",
     "Universidad/IE/Anexos/Pasted image 20260416105825.png",
@@ -259,7 +260,6 @@
     "Recursos/Anexos/1326363.png",
     "Recursos/Anexos/davide-cantelli-jpkfc5_d-DI-unsplash.jpg",
     "Universidad/TIO/Anexos/Pasted image 20250916121808.png",
-    "Universidad/TIO/Anexos/Pasted image 20250916121840.png",
     "Universidad/CDyAL/Mapa Conceptual. Tema 4.canvas",
     "Universidad/Admin/grafo.canvas"
   ]

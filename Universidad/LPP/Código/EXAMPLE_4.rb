@@ -68,9 +68,7 @@ def m_amenaza(lista)
     suma = 0
     total = lista.size
     lista.each do |i|
-        if i.especie == especie
-            suma += 1
-        end
+        suma += i.n_amenazado
     end
     resultado = suma / total
     $mutex.lock
@@ -81,10 +79,9 @@ end
 def h_funcion(lista)
     h_especie = Thread.new {p_especie(lista)}
     h_amenaza = Thread.new {m_amenaza(lista)}
-    h_amenaza.join
-    h_especie.join
+    $h_resultados << h_amenaza.join << h_especie.join
 
-    p "----> #{$h_resultados}"
+    "----> #{$h_resultados}"
 end
 
 #########################################
