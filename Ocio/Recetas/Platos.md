@@ -1,8 +1,9 @@
 ---
+banner: "![[davide-cantelli-jpkfc5_d-DI-unsplash.jpg]]"
 cssclasses:
   - dashboard
-banner: "![[davide-cantelli-jpkfc5_d-DI-unsplash.jpg]]"
 ---
+
 # <center>Platos</center>
 + Recetas
 	+ [[Lasagna]]

@@ -1,6 +1,9 @@
 ---
 banner: "![[Pasted image 20251228210637.png]]"
+cssclasses:
+  - dashboard
 ---
+
 
 
 # <center>Viajes</center>

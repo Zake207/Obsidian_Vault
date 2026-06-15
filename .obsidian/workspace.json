@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recursos/Home.md",
+                "file": "Ocio/Juegos/Sanidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,15 +117,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Home"
+              "title": "Gráfico de Sanidad"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "44f3cdaf8d5fd277",
@@ -134,7 +133,7 @@
       {
         "id": "1d0df6be2cf7bb2f",
         "type": "tabs",
-        "dimension": 44.01076716016151,
+        "dimension": 63.37325349301397,
         "children": [
           {
             "id": "49c771b89693a213",
@@ -180,7 +179,7 @@
       {
         "id": "60960a81e133b9d3",
         "type": "tabs",
-        "dimension": 55.989232839838486,
+        "dimension": 36.62674650698603,
         "children": [
           {
             "id": "853395e51a1e5172",
@@ -207,50 +206,50 @@
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "homepage:Open homepage": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Ocio/Juegos/Phasmophobia.md",
-    "Ocio/Juegos/Sanidad.md",
-    "Ocio/Juegos/Cacerias.md",
-    "Universidad/LPP/Código/EXAMPLE_8.rb",
-    "Universidad/LPP/Código/EXAMPLE_7.rb",
-    "Ocio/Juegos/Anexos/Pasted image 20260612114337.png",
     "Ocio/Juegos/Videojuegos.md",
     "Recursos/Home.md",
+    "Ocio/Libros/Lectura.md",
+    "Proyectos/Quotes.md",
+    "Proyectos/Viajes/Viajes.md",
+    "Proyectos/Aprendizaje/Programación.md",
+    "Ocio/Recetas/Postres.md",
+    "Ocio/Recetas/Platos.md",
+    "Ocio/Libros/Librería.md",
+    "Ocio/Juegos/Boardgames.md",
+    "Notas Diarias/2026-06-17 Fadi.md",
+    "Notas Diarias/2026-06-17 Gym.md",
+    "Notas Diarias/2026-06-16 Fadi.md",
+    "Notas Diarias/2026-06-16 Gym.md",
+    "Notas Diarias/2026-06-16 Examen - LPP.md",
+    "Ocio/Juegos/Sanidad.md",
+    "Universidad/LPP/Código/EXAMPLE_8.rb",
+    "Universidad/LPP/Código/EXAMPLE_7.rb",
     "Universidad/LPP/Código/EXAMPLE_6.rb",
     "Universidad/LPP/Código/EXAMPLE_5.rb",
+    "Universidad/LPP/Código/EXAMPLE_4.rb",
     "Universidad/LPP/Código/EXAMPLE_3.rb",
-    "Ocio/Juegos/YuGiOh!/Clown Crew.md",
-    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
-    "Ocio/Juegos/Boardgames.md",
-    "Universidad/LPP/ut_examen.rb",
-    "Universidad/LPP/poo_examen.rb",
-    "Ocio/Recetas/Postres.md",
+    "Universidad/LPP/Código/EXAMPLE_2.rb",
+    "Ocio/Juegos/Cacerias.md",
+    "Ocio/Juegos/Anexos/Pasted image 20260612114337.png",
     "Ocio/Recetas/Crema de limón.md",
     "Ocio/Recetas/Tarta de requesón con arándanos.md",
     "Ocio/Recetas/Red Velvet.md",
+    "Ocio/Juegos/YuGiOh!/Clown Crew.md",
+    "Universidad/LPP/Código/EXAMPLE_1.rb",
+    "Universidad/LPP/Código/CODE_funcional_examen.rb",
+    "Universidad/LPP/Código/CODE_ttd_examen.rb",
+    "Ocio/Juegos/YuGiOh!/Yu-Gi-Oh!.md",
     "Ocio/Juegos/YuGiOh!/Mitsurugi.md",
     "Universidad/IE/Inteligencia Emocional.md",
     "Universidad/IE/IE - Tema 1.md",
-    "Universidad/IE/IE - Tema 2.md",
-    "Universidad/IE/IE - Tema 3.md",
-    "Universidad/IE/IE - Tema 4.md",
-    "Universidad/IE/IE - Tema 5.md",
-    "Universidad/IE/IE - Tema 6.md",
-    "Ocio/Recetas/Mousse de tres chocolates.md",
-    "Ocio/Juegos/YuGiOh!/Decks interesantes.md",
-    "Ocio/Juegos/YuGiOh!/D&D.md",
-    "Proyectos/Aprendizaje/IA.md",
-    "Proyectos/Informáticos/PDF-NLP (DocuBrain).md",
-    "Proyectos/Aprendizaje/Programación.md",
-    "Universidad/LPP/funcional_examen.rb",
-    "Universidad/LPP/concurrente_examples.rb",
-    "Proyectos/Aprendizaje",
     "Universidad/IE/Anexos/Pasted image 20260416111449.png",
     "Universidad/IE/Anexos/Pasted image 20260416110422.png",
     "Universidad/IE/Anexos/Pasted image 20260416105825.png",

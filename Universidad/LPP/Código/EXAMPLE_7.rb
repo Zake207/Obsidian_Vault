@@ -58,8 +58,8 @@ end
 #<===================================================================>
 
 $field = []
-cv_daneen = ConditionVariable.new
-cv_comprex = ConditionVariable.new
+$cv_daneen = ConditionVariable.new
+$cv_comprex = ConditionVariable.new
 $mutex = Mutex.new
 n = 5
 
@@ -77,12 +77,12 @@ h_daneen = Thread.new do
     n.times do |i|
         $mutex.synchronize do
             while !$field.empty? do
-                cv_daneen.wait($mutex)
+                $cv_daneen.wait($mutex)
             end
             enter_field("Daneen")
             sleep(1)
             exit_field("Daneen")
-            cv_comprex.signal
+            $cv_comprex.signal
         end
     end
 end

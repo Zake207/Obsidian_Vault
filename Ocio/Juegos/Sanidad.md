@@ -22,4 +22,17 @@ El drenaje sigue la siguiente tabla
 | Medium   | 0.05                                                                                             | 0.08               |
 | Large    | 0.03                                                                                             | 0.05               |
 
-																																																																																																																																		El drenaje se multiplica dependiendo de la dificultad: 1.5 en intermedio y 2 para profesional en adelante.
++ El drenaje se multiplica dependiendo de la dificultad: 1.5 en intermedio y 2 para profesional en adelante.
++ Se disminuye a más de la mitad en solitario.
++ aumentan en 1 durante la Luna Sangrienta.
+
+
+Los siguientes fantasmas tienen métodos propios para bajar la cordura de los jugadores.
++ [[Banshee]]
++ [[Oni]]
++ [[Jinn]]
++ [[Yurei]]
++ [[Moroi]]
++ [[Ente]]
++ [[Poltergeist]]
+
