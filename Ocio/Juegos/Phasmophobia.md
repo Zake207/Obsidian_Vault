@@ -14,3 +14,6 @@ cssclasses:
 # <center>Posesiones malditas</center>
 
 # <center>Fantasmas</center>
+# <center>Enlaces de Interés</center>
+https://tybayn.github.io/phasmo-cheat-sheet/
+https://phasmophobia.fandom.com/wiki/Main_Page

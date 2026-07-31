@@ -6,8 +6,8 @@
 + [[Blue-Eyes-Invoked]]
 + [[Branded]]
 + [[Mitsurugi]]
-+ [[Clown Crew]]
-+ + [[Enneacraft]]
++ [[Clown Crew - Mitsu]]
++ [[Enneacraft]]
 ### Aprender
 + [[Mermail]]
 + [[Yummy]]

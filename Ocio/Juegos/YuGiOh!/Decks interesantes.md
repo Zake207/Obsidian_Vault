@@ -1,6 +1,7 @@
 # Meta
 + Lunalight
-+ Clown clan
++ Blitzclique
++ Dracotail
 # Rogue
 + Gem-knight
 + Exorsister
@@ -21,7 +22,10 @@
 + Ice Barrier
 + Melffys
 + Burning abyss
-+ Dinosaur
+
 # Cartas
 + Lo Fiendsmith
 + Shaman of tenyi + syncro de tenyi
++ sky striker zero + kagari alt art
++ Dominus purge
++ 
