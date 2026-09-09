@@ -1,7 +1,7 @@
 # Meta
-+ Lunalight
-+ Blitzclique
 + Dracotail
++ Vanquish K9
++ White Forest - Azamina - Diabell
 # Rogue
 + Gem-knight
 + Exorsister
@@ -11,6 +11,7 @@
 + Predaplant
 + P.U.N.K
 + Exodia
++ Orcust
 # Fun
 + Darkworld
 + Ashened
@@ -26,6 +27,5 @@
 # Cartas
 + Lo Fiendsmith
 + Shaman of tenyi + syncro de tenyi
-+ sky striker zero + kagari alt art
 + Dominus purge
 + 

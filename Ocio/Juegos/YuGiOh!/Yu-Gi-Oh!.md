@@ -4,11 +4,12 @@
 [[Decks interesantes| Lista de deseos]]
 ### Aprendidos
 + [[Blue-Eyes-Invoked]]
-+ [[Branded]]
 + [[Mitsurugi]]
 + [[Clown Crew - Mitsu]]
 + [[Enneacraft]]
++ [[Blitzclique]]
 ### Aprender
++ [[Branded]]
 + [[Mermail]]
 + [[Yummy]]
 + [[Memento]]

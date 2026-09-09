@@ -38,6 +38,8 @@ banner_y: 0.5
 	- [[Administración y Diseño de Bases de Datos]]
 	- [[Tecnologías de la Información de las Organizaciones]]
 	- [[Inteligencia Emocional]]
+	- [[Visión por computador]]
+	- [[Sistemas y Tecnologias Web]]
 # <center>Proyectos</center>
 
 - Informáticos
@@ -50,12 +52,12 @@ banner_y: 0.5
 	- [[Viajes]]
 	- [[Quotes]]
 # <center>Ocio</center>
+
 - Juegos
     - [[Boardgames]]
     - [[Videojuegos]]
 + Libros
 	+ [[Lectura]]
 	+ [[Librería]]
-+ Recetas
-	+ [[Postres]]
-	+ [[Platos]]
++ Hobbies
+	+ [[Fotografía]]

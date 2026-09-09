@@ -13,3 +13,6 @@ cssclasses:
 # <center>Lovecraft</center>
 # <center>Dune</center>
 # <center>El Problema de los 3 cuerpos</center>
+# <center>Miscelanea</center>
++ [[Meditaciones]]
++ [[El Arte de la Guerra]]
