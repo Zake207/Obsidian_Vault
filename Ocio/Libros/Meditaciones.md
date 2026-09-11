@@ -70,4 +70,18 @@ En este libro Marco Aurelio se dedica a exponer consejos y reflexiones sobre la 
 + La mente es un proceso de la naturaleza y el tiempo no va a parar, esa es la naturaleza de todo.
 + Una vida, larga o corta, vale lo mismo en todas sus formas, aprovecha el presente pues lo que con certeza tenemos.
 + Todo es opinión, la veracidad de estas dependen del grado en el que las veamos ciertas.
-+ No debemos perturbarnos por los hechos, hemos de rodearnos de buena compañía, jamás vernos gobernados por el placer o el dolor y nunca mentir
++ No debemos perturbarnos por los hechos, hemos de rodearnos de buena compañía, jamás vernos gobernados por el placer o el dolor y nunca mentir.
+# Libro 3
++ La rapidez del paso del tiempo hace que debamos de ser conscientes de que lo primero que se desvanece con la edad es la concepción de las cosas.
++ Ser consciente de la belleza de todo, cultivar una sensibilidad que nos haga ver la belleza de las cosas de forma aislada.
++ No temer a la muerte porque de haber vida después, no significa ser el final, y de serlo, será el fin de todas sensaciones, la paz absoluta.
++ Si no es para el bien común no malgastes tiempo en cavilar sobre los demás. Debemos enfocar el pensar de manera que al responder sobre ellos se evidencie sencillez y benevolencia.
++ No ser hombre de muchas palabras u ocupado en muchas tareas, no trabajes de mala gana.
++ ==Un hombre debe mantenerse erguido y no apoyarse en los demás.==
++ No dejar espacio en tu vida a algo a no ser que sea mejor que la justicia, la verdad la fortaleza y la templanza.
++ No ver provechoso aquello que nos haga romper nuestra palabra, actuar de forma hipócrita o perderte el respeto.
++ Ser auténtico y reverenciar la facultad intelectiva.
++ Desprecia lo material, o más bien, no lo persigas pues al acabar todo nada queda, ni la más celebre nota póstuma.
++ Búscale el sentido y significado a todo lo que se te presenta enfrente.
++ Esfuérzate en lo que tienes delante, con razón seriedad y vigor, con veracidad en cada palabra, serás feliz.
++ Preserva la serenidad Complácete de lo que sucede.
