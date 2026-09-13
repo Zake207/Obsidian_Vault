@@ -85,3 +85,19 @@ En este libro Marco Aurelio se dedica a exponer consejos y reflexiones sobre la 
 + Búscale el sentido y significado a todo lo que se te presenta enfrente.
 + Esfuérzate en lo que tienes delante, con razón seriedad y vigor, con veracidad en cada palabra, serás feliz.
 + Preserva la serenidad Complácete de lo que sucede.
+# Libro 4
++ Tu mente debe ser como el fuego, consumir cualquier situación para adaptarse fácilmente a ella.
++ Todo debe tener un propósito.
++ El retiro idóneo no debe ser a un lugar si no en un mismo, pues la tranquilidad es solo un síntoma de tener la mente ordenada.
++ Somos nada, no le des más importancia de la que se merecen los objetos que se vuelven polvo y las palabras, buenas o malas, que fácilmente se olvidan.
++ ==Elimina la opinión y la queja desaparecerá, << Me han hecho daño>> elimina la frase y el daño desaparecerá.==
++ Lo que no envilece al humano tampoco envilecerá su vida.
++ Se bueno en el sentido en el que una persona se entiende que es buena verdaderamente.
++ ==No imagines las cosas con sesgos o malos pensamientos, sino como verdaderamente son.==
++ Actuar en la medida de lo que es justo y útil para todos y cambiar de opinión cuando se le convence con argumentos cuyo fundamento sea únicamente el actuar de esta forma.
++ Cultiva el bien siempre que puedas pues nada asegura tu presencia en este mundo mañana.
++ No buscar una fama que algún día se desvanecerá y caerá en el olvido.
++ Aquello verdaderamente bello no perturba su belleza por lo que reciba de ajenos y extraños.
++ Nada de lo que ocurre a su debido tiempo para ti es tardío o apresurado.
++ Haz lo necesario, evita lo innecesario, tanto actos superfluos como pensamientos negativos. Dado que eso aporta la tranquilidad de haber obrado bien.
++ Se sobrio y busca la serenidad de tu alma, ¿Alguien te daña? Se daña a él mismo, no merece la pena buscar sentido a las cosas que pasan, solo aprender de ellas.

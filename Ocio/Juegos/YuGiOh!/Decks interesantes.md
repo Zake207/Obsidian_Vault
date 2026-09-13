@@ -28,4 +28,4 @@
 + Lo Fiendsmith
 + Shaman of tenyi + syncro de tenyi
 + Dominus purge
-+ 
++ Yummy Marshmao
