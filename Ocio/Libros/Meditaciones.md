@@ -101,3 +101,11 @@ En este libro Marco Aurelio se dedica a exponer consejos y reflexiones sobre la 
 + Nada de lo que ocurre a su debido tiempo para ti es tardío o apresurado.
 + Haz lo necesario, evita lo innecesario, tanto actos superfluos como pensamientos negativos. Dado que eso aporta la tranquilidad de haber obrado bien.
 + Se sobrio y busca la serenidad de tu alma, ¿Alguien te daña? Se daña a él mismo, no merece la pena buscar sentido a las cosas que pasan, solo aprender de ellas.
++ Vive tu vida sin convertirte en tirano mi esclavo de nadie.
++ Todo merece una atención proporcional a su importancia.
++ Todo fluye de una misma fuente que es el universo, hay que aceptar de buen grado los acontecimientos como necesarios o naturales.
++ Observa los principios de los demás, por ellos ser rigen y dirigen su destino.
++ ==Eres un alma diminuta que porta un cadáver==.
++ Todo lo que acontece no es parte de una sucesión si no de una relación.
++ No te limites a actuar como se te ha enseñado.
++ 
