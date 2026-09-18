@@ -108,4 +108,9 @@ En este libro Marco Aurelio se dedica a exponer consejos y reflexiones sobre la 
 + ==Eres un alma diminuta que porta un cadáver==.
 + Todo lo que acontece no es parte de una sucesión si no de una relación.
 + No te limites a actuar como se te ha enseñado.
-+ 
+
+# Libro 5
++ Ten claro que de amarte, amarías tus deberes y obligaciones pues forman parte de tu naturaleza, esta bien descansar pero todo tiene limites fijados.
++ ==Que fácil es ignorar las impresiones que nos perturben y regresar al sosiego==
++ No busques la aprobación o impresión de otros tras realizar una buena acción. Debemos actuar sin buscar el reconocimiento.
+
